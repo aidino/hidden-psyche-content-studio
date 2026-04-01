@@ -1,6 +1,6 @@
 ---
 name: "youtube-content"
-description: "Full YouTube content package generator for the Hidden Psyche psychology channel. Given a topic, outputs all 5 production-ready assets: video script, clickable title (3 variants using 'The Psychology of...' formula), SEO description (plain text, humanized, no markdown), SEO tags (comma-separated), and thumbnail prompt (stickman style). Triggers: 'create video package', 'generate content for topic', 'write script for', 'make thumbnail prompt', 'generate YouTube SEO'. NOT for general blog writing (use content-production). NOT for social captions only (use social-content)."
+description: "Full YouTube content package generator for the Hidden Psyche psychology channel. Given a topic, outputs all 6 production-ready assets: tone voice direction, video script, clickable title (3 variants using 'The Psychology of...' or numbered signs formula), SEO description (plain text, humanized, no markdown), SEO tags (comma-separated), and thumbnail prompt (stickman style). Triggers: 'create video package', 'generate content for topic', 'write script for', 'make thumbnail prompt', 'generate YouTube SEO'. NOT for general blog writing (use content-production). NOT for social captions only (use social-content)."
 license: MIT
 metadata:
   version: 1.1.0
@@ -15,7 +15,7 @@ metadata:
 ## Purpose
 
 Generate a complete YouTube content package for the Hidden Psyche channel given a topic.
-Outputs: Script, Title, SEO Description, SEO Tags, Thumbnail Prompt.
+Outputs: Tone Voice, Script, Title, SEO Description, SEO Tags, Thumbnail Prompt.
 
 ---
 
@@ -35,24 +35,51 @@ script_length: [short=3min | medium=7min | long=12min]  (default: medium)
 
 ## Output Format
 
-Always output all 5 sections in this exact order:
+Always output all 6 sections in this exact order:
 
-### 1. VIDEO SCRIPT
-### 2. CLICKABLE TITLE
-### 3. SEO DESCRIPTION
-### 4. SEO TAGS
-### 5. THUMBNAIL PROMPT
+### 1. TONE VOICE
+### 2. VIDEO SCRIPT
+### 3. CLICKABLE TITLE
+### 4. SEO DESCRIPTION
+### 5. SEO TAGS
+### 6. THUMBNAIL PROMPT
 
 ---
 
 ## Section Rules
 
-### 1. VIDEO SCRIPT
+### 1. TONE VOICE
+
+Purpose: Set the emotional and stylistic direction for the entire content package before writing anything else. This ensures every asset stays tonally consistent.
+
+Structure:
+```
+TONE: [one of: validating | intellectual | philosophical | dark | empowering]
+VOICE DIRECTION: [2-3 sentences describing the specific emotional register for this topic]
+KEY PHRASES TO USE: [3-5 phrases or sentence starters that fit this topic's tone]
+AVOID: [2-3 things to steer away from for this specific topic]
+```
+
+Tone options explained:
+- **validating** — Soothe insecurities, reframe "flaws" as strengths, make the viewer feel seen
+- **intellectual** — Curiosity-driven, uses psychological terms to give weight, thought-provoking
+- **philosophical** — Reflective, existential, questions deeper meaning behind the behavior
+- **dark** — Explores shadow side of human nature, uncomfortable truths, manipulation tactics
+- **empowering** — Action-oriented, builds confidence, arms the viewer with psychological tools
+
+Rules:
+- Always choose ONE primary tone — do not blend
+- The voice direction must reference the specific topic, not be generic
+- Key phrases must feel natural to Hidden Psyche's brand (refer to CHANNEL.md brand voice)
+- The AVOID list should target tone violations specific to this topic (e.g., for trauma topics, avoid being dismissive or overly clinical)
+
+### 2. VIDEO SCRIPT
 
 Structure:
 ```
 [HOOK — 0:00–0:30]
 Open with a provocative question or surprising fact related to the topic.
+Must follow the Relate → Reframe → Reveal formula (see CHANNEL.md "Hook Style").
 Example: "Have you ever noticed how some people seem physically uncomfortable during small talk?"
 
 [INTRO — 0:30–1:00]
@@ -60,12 +87,16 @@ Briefly frame what psychology says about this topic.
 Tease 3 key insights the viewer will learn.
 
 [BODY — 1:00–end]
-Divide into 3–5 clearly labeled sections.
-Each section: insight name → explanation → real-world example → psychological backing
+Divide into 5–12 clearly labeled numbered points.
+Each point must follow the Trait → Jargon → Empowering Explanation formula (see CHANNEL.md "Script Structure"):
+  - The Trait: State the behavior clearly ("One: they avoid vulnerability")
+  - The Scientific Jargon: Introduce a real psychological term (e.g., cognitive complexity, metacognition, Dunning-Kruger effect, hedonic adaptation, internal locus of control)
+  - The Empowering Explanation: Reframe the trait as a sign of deeper processing or emotional maturity
 
 [OUTRO — last 60 seconds]
 Summarize insights in 3 bullet points.
-Call to action: "If this resonated with you, subscribe for more psychology explained simply."
+Call to action must be identity-based, not generic (see CHANNEL.md "CTA Style").
+Template: "If you love understanding the hidden psychology behind human behavior... hit subscribe because the fact that this video caught your attention might already say something about your mind."
 ```
 
 Tone guidelines:
@@ -76,7 +107,7 @@ Tone guidelines:
 
 ---
 
-### 2. CLICKABLE TITLE
+### 3. CLICKABLE TITLE
 
 Formula: `The Psychology of [Topic]`
 
@@ -95,7 +126,7 @@ Examples:
 
 ---
 
-### 3. SEO DESCRIPTION
+### 4. SEO DESCRIPTION
 
 Rules:
 - **NO markdown formatting** (no **, no ##, no bullet dashes)
@@ -112,7 +143,7 @@ Rules:
 
 ---
 
-### 4. SEO TAGS
+### 5. SEO TAGS
 
 Rules:
 - 15–20 tags total
@@ -129,7 +160,7 @@ tag1, tag2, tag3, tag4, ...
 
 ---
 
-### 5. THUMBNAIL PROMPT
+### 6. THUMBNAIL PROMPT
 
 Always use this exact template, filling in the bracketed variables:
 
