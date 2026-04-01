@@ -1,3 +1,15 @@
+---
+name: "youtube-content"
+description: "Full YouTube content package generator for the Hidden Psyche psychology channel. Given a topic, outputs all 5 production-ready assets: video script, clickable title (3 variants using 'The Psychology of...' formula), SEO description (plain text, humanized, no markdown), SEO tags (comma-separated), and thumbnail prompt (stickman style). Triggers: 'create video package', 'generate content for topic', 'write script for', 'make thumbnail prompt', 'generate YouTube SEO'. NOT for general blog writing (use content-production). NOT for social captions only (use social-content)."
+license: MIT
+metadata:
+  version: 1.1.0
+  author: Dino (aidino)
+  category: youtube, content-creation
+  channel: Hidden Psyche
+  updated: 2026-04-01
+---
+
 # YouTube Content Skill — Hidden Psyche
 
 ## Purpose
@@ -156,3 +168,12 @@ Line 2: "People Who Hate Small Talk" — white text on red background, slightly 
 Right half: A stickman illustration of a person standing alone at a party, arms crossed, while other stickmen chat in groups nearby.
 Overall feel: Clean, minimal, instantly readable at small thumbnail size.
 ```
+
+---
+
+## Related Skills
+
+- **content-production**: Use for long-form blog/article writing outside of YouTube scripts.
+- **content-humanizer**: Run SEO description through this if it still sounds AI-generated.
+- **marketing-psychology**: Use to generate additional psychological hooks and persuasion angles for the script.
+- **social-content**: Use to repurpose the video script into Shorts descriptions or Instagram captions.
