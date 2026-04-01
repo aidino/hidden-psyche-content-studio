@@ -42,11 +42,11 @@
 
 | Task | Skill to Load |
 |------|---------------|
-| Full YouTube content package | `skills/youtube-content/SKILL.md` |
-| Thumbnail prompt generation | `skills/youtube-content/SKILL.md` |
-| Title generation (Psychology formula) | `skills/youtube-content/SKILL.md` |
-| SEO description (humanized, no markdown) | `skills/youtube-content/SKILL.md` |
-| SEO tags (comma-separated) | `skills/youtube-content/SKILL.md` |
+| Full YouTube content package | `.claude/skills/youtube-content/SKILL.md` |
+| Thumbnail prompt generation | `.claude/skills/youtube-content/SKILL.md` |
+| Title generation (Psychology formula) | `.claude/skills/youtube-content/SKILL.md` |
+| SEO description (humanized, no markdown) | `.claude/skills/youtube-content/SKILL.md` |
+| SEO tags (comma-separated) | `.claude/skills/youtube-content/SKILL.md` |
 
 ---
 
@@ -56,7 +56,7 @@ When the user provides a **topic**, execute in this order:
 
 ```
 1. Load channel-context/CHANNEL.md
-2. Load skills/youtube-content/SKILL.md
+2. Load .claude/skills/youtube-content/SKILL.md
 3. Generate: Script → Title → Description → Tags → Thumbnail Prompt
 4. Output each section clearly labeled
 ```

@@ -58,7 +58,7 @@ create video package for topic: people who avoid conflict
 
 Claude will automatically:
 1. Load channel context from `channel-context/CHANNEL.md`
-2. Load the custom YouTube skill from `skills/youtube-content/SKILL.md`
+2. Load the custom YouTube skill from `.claude/skills/youtube-content/SKILL.md`
 3. Output all 5 content pieces below
 
 ---
@@ -153,7 +153,7 @@ You can also call specific skills for targeted tasks:
 
 ### Generate only a title
 ```
-Using skills/youtube-content/SKILL.md, generate only the title variants for topic: overthinking before sleep
+Using .claude/skills/youtube-content/SKILL.md, generate only the title variants for topic: overthinking before sleep
 ```
 
 ### Humanize existing text
@@ -177,7 +177,7 @@ Using claude-skills/marketing-skill/content-production/SKILL.md and channel-cont
 
 | Task | Skill Location | Command Example |
 |------|---------------|----------------|
-| Full video package | `skills/youtube-content/SKILL.md` | `create video package for topic: X` |
+| Full video package | `.claude/skills/youtube-content/SKILL.md` | `create video package for topic: X` |
 | Script writing | `claude-skills/marketing-skill/content-production/SKILL.md` | `write script for topic: X` |
 | Humanize description | `claude-skills/marketing-skill/content-humanizer/SKILL.md` | `humanize this text: [text]` |
 | SEO optimization | `claude-skills/marketing-skill/ai-seo/SKILL.md` | `optimize SEO for: [title]` |
@@ -210,17 +210,17 @@ create video package for topic: people who overthink everything, then save the o
 
 ## Adding New Custom Skills
 
-1. Create a new folder under `skills/`:
+1. Create a new folder under `.claude/skills/`:
    ```bash
-   mkdir skills/shorts-repurpose
-   touch skills/shorts-repurpose/SKILL.md
+   mkdir -p .claude/skills/shorts-repurpose
+   touch .claude/skills/shorts-repurpose/SKILL.md
    ```
-2. Write your skill instructions in `SKILL.md` (follow the format in `skills/youtube-content/SKILL.md`)
+2. Write your skill instructions in `SKILL.md` (follow the format in `.claude/skills/youtube-content/SKILL.md`)
 3. Add the new skill to the routing table in `CLAUDE.md`
 
 ---
 
 ## License
 
-Custom skills in `skills/` are authored for this project.  
+Custom skills in `.claude/skills/` are authored for this project.  
 Community skills from `claude-skills/marketing-skill/` are from [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills).
