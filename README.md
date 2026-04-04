@@ -56,6 +56,12 @@ In Claude Code, type:
 create video package for topic: people who avoid conflict
 ```
 
+then
+
+```
+write out to files in output folder with prefix mmdd_video_
+```
+
 Claude will automatically:
 1. Load channel context from `channel-context/CHANNEL.md`
 2. Load the custom YouTube skill from `.claude/skills/youtube-content/SKILL.md`
