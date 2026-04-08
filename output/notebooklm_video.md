@@ -1,0 +1,1 @@
+Transform the content into a short story, emphasizing the problem, the cause, and the solution.
