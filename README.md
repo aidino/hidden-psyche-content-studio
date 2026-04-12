@@ -53,13 +53,13 @@ hidden-psyche-content-studio/
 In Claude Code, type:
 
 ```
-create video package for topic: people who avoid conflict
+create video package for topic for Apr-16, video 1: 
 ```
 
 then
 
 ```
-write out to files in output folder with prefix mmdd_video_
+write out to files in output folder with prefix 0412_video2_
 ```
 
 Claude will automatically:

@@ -1,6 +1,6 @@
 https://www.perplexity.ai/search/tim-hieu-ve-che-do-video-overv-ufwpEaIWQfeM95ZPS52hbA#4
 
-Create a cinematic stickman storytelling video about The Power of the Long Tail
+Create a cinematic stickman storytelling video about The Psychology of Wealth: Ego, Desire, and Freedom
 , starting with a shocking hook, then explaining the psychological issue through a relatable emotional story. Use simple 2D stickman characters, minimal backgrounds, expressive body language, and cinematic pacing. Show the pain through actions and scenes before revealing the deeper psychological meaning. End with one short, memorable insight.
 
 ===
