@@ -1,0 +1,10 @@
+{
+  "version": "1.0",
+  "project": {
+    "name": "vnexpress-warship",
+    "description": "Tin nhắn VnExpress",
+    "fps": 30,
+    "width": 1920,
+    "height": 1080
+  }
+}

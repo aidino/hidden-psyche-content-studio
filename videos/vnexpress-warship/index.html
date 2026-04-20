@@ -1,0 +1,236 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>VnExpress - Chiến hạm Mỹ nã pháo</title>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,400;0,700;0,900;1,400&family=Merriweather+Sans:wght@400;700&display=swap');
+
+    body {
+      margin: 0;
+      background: #FFFFFF;
+      overflow: hidden;
+      font-family: 'Merriweather Sans', sans-serif;
+    }
+    
+    [data-composition-id="main"] {
+      position: relative;
+      width: 1920px;
+      height: 1080px;
+      background: #FFFFFF;
+      overflow: hidden;
+    }
+
+    /* Common */
+    .scene-content {
+      position: absolute;
+      width: 100%;
+      height: 100%;
+      box-sizing: border-box;
+      display: flex;
+      flex-direction: column;
+    }
+    
+    .serif { font-family: 'Merriweather', serif; }
+    
+    .logo-container {
+      position: absolute;
+      top: 40px;
+      left: 60px;
+      z-index: 100;
+    }
+    .logo-container img { height: 60px; }
+
+    /* Scene 1 */
+    #s1 { background: #FFFFFF; }
+    #s1 .hero-img-wrapper {
+      position: absolute;
+      top: 0; right: 0;
+      width: 50%;
+      height: 100%;
+      overflow: hidden;
+    }
+    #s1 .hero-img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }
+    #s1 .text-container {
+      position: absolute;
+      top: 0; left: 0;
+      width: 50%;
+      height: 100%;
+      padding: 120px 80px;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      box-sizing: border-box;
+    }
+    #s1 .headline {
+      font-size: 80px;
+      font-weight: 900;
+      color: #222222;
+      line-height: 1.2;
+    }
+    #s1 .headline-red { color: #9F224E; }
+    #s1 .red-bar {
+      width: 100px;
+      height: 8px;
+      background: #9F224E;
+      margin-top: 40px;
+    }
+
+    /* Scene 2 */
+    #s2 { background: #FCFAF6; padding: 120px; flex-direction: row; align-items: center; justify-content: center; gap: 80px; }
+    #s2 .quote-box {
+      font-size: 64px;
+      font-style: italic;
+      color: #222222;
+      line-height: 1.4;
+      flex: 1.2;
+      border-left: 12px solid #9F224E;
+      padding-left: 60px;
+    }
+    #s2 .highlight { color: #9F224E; font-weight: 900; }
+    #s2 .image-box { flex: 0.8; height: 80%; border-radius: 4px; overflow: hidden; }
+    #s2 .image-box img { width: 100%; height: 100%; object-fit: cover; }
+
+    /* Scene 3 */
+    #s3 { background: #222222; color: #FFFFFF; justify-content: center; align-items: center; }
+    #s3 .timer { font-size: 240px; font-weight: 900; color: #9F224E; letter-spacing: -2px; line-height: 1; }
+    #s3 .timer-sub { font-size: 50px; color: #E5E5E5; margin-top: 10px; }
+    #s3 .alert-box { border: 4px solid #9F224E; padding: 30px 60px; font-size: 60px; margin-top: 80px; font-weight: 700; color: #9F224E; }
+
+    /* Scene 4 */
+    #s4 { background: #9F224E; color: #FFFFFF; justify-content: center; align-items: center; text-align: center; }
+    #s4 .giant-text { font-size: 260px; font-weight: 900; line-height: 1; margin: 0; }
+    #s4 .sub-text { font-size: 60px; font-weight: 400; margin-top: 40px; }
+
+    /* Scene 5 */
+    #s5 { background: #FFFFFF; align-items: center; justify-content: center; }
+    #s5 .map-container { width: 100%; height: 100%; display: flex; justify-content: center; align-items: center; position: relative; }
+    #s5 .map-img { width: 100%; height: 100%; object-fit: cover; opacity: 0.85; }
+    #s5 .circle-svg { position: absolute; width: 600px; height: 600px; top: 10%; left: 30%; }
+    #s5 .circle-path { stroke: #9F224E; stroke-width: 12; fill: none; stroke-linecap: round; }
+    #s5 .map-text { position: absolute; bottom: 80px; left: 80px; font-size: 80px; font-weight: 900; color: #FFFFFF; text-shadow: 0 4px 20px rgba(0,0,0,0.8); }
+
+    /* Scene 6 */
+    #s6 { background: #222222; justify-content: center; align-items: center; }
+    #s6 .final-text { font-size: 100px; font-weight: 900; color: #FFFFFF; text-align: center; line-height: 1.3; padding: 0 160px; }
+    #s6 .progress-bg { position: absolute; bottom: 0; left: 0; width: 100%; height: 16px; background: #4F4F4F; }
+    #s6 .progress-fill { position: absolute; bottom: 0; left: 0; width: 0%; height: 16px; background: #9F224E; }
+  </style>
+  <script src="https://cdn.jsdelivr.net/npm/gsap@3.14.2/dist/gsap.min.js"></script>
+</head>
+<body>
+
+  <div data-composition-id="main" data-width="1920" data-height="1080" data-start="0" data-duration="84.0">
+
+    <audio id="audio" src="narration.mp3" data-start="0" data-duration="84.0" data-track-index="0" data-volume="1"></audio>
+
+    <div class="logo-container clip" id="global-logo" data-start="0" data-duration="84.0" data-track-index="3">
+      <img src="capture/assets/logo.svg" alt="VnExpress">
+    </div>
+
+    <!-- S1: 0 - 13.6 -->
+    <div id="s1" class="scene-content clip" data-start="0" data-duration="13.6" data-track-index="1">
+      <div class="hero-img-wrapper">
+        <img class="hero-img" src="capture/assets/og-image.jpg" />
+      </div>
+      <div class="text-container">
+        <div class="headline serif">
+          <span class="l1" style="display:inline-block">CHIẾN HẠM MỸ</span><br>
+          <span class="l2" style="display:inline-block">NÃ PHÁO</span><br>
+          <span class="headline-red l3" style="display:inline-block">BẮT TÀU HÀNG IRAN</span>
+        </div>
+        <div class="red-bar"></div>
+      </div>
+    </div>
+
+    <!-- S2: 13.1 - 27.5 -->
+    <div id="s2" class="scene-content clip" data-start="13.1" data-duration="14.4" data-track-index="2">
+      <div class="quote-box serif">
+        Tàu Touska đã cố tình <span class="highlight">vượt vòng phong tỏa</span> và từ chối lệnh dừng tàu.<br><br>Hậu quả, <span class="highlight">phòng máy trúng đạn</span>.
+      </div>
+      <div class="image-box">
+        <img src="capture/assets/image-16.jpg" class="s2-img"/>
+      </div>
+    </div>
+
+    <!-- S3: 27.0 - 42.8 -->
+    <div id="s3" class="scene-content clip" data-start="27.0" data-duration="15.8" data-track-index="1">
+      <div class="timer">6 TIẾNG</div>
+      <div class="timer-sub">KHÔNG TUÂN THỦ CẢNH BÁO</div>
+      <div class="alert-box">ĐỔ BỘ &amp; KIỂM SOÁT</div>
+    </div>
+
+    <!-- S4: 42.3 - 57.3 -->
+    <div id="s4" class="scene-content clip" data-start="42.3" data-duration="15.0" data-track-index="2">
+      <div class="giant-text serif">TRẢ ĐŨA</div>
+      <div class="sub-text">CƯỚP BIỂN TRẮNG TRỢN</div>
+    </div>
+
+    <!-- S5: 56.8 - 73.3 -->
+    <div id="s5" class="scene-content clip" data-start="56.8" data-duration="16.5" data-track-index="1">
+      <div class="map-container">
+        <img class="map-img" src="capture/assets/hormuz-1776633369-2901-1776633489.jpg" />
+        <svg class="circle-svg" viewBox="0 0 100 100">
+          <circle class="circle-path" cx="50" cy="50" r="40" stroke-dasharray="251" stroke-dashoffset="251" />
+        </svg>
+        <div class="map-text serif">EO BIỂN HORMUZ BỊ PHONG TỎA</div>
+      </div>
+    </div>
+
+    <!-- S6: 72.8 - 84.0 -->
+    <div id="s6" class="scene-content clip" data-start="72.8" data-duration="11.2" data-track-index="2">
+      <div class="final-text serif">TÌNH HÌNH CĂNG THẲNG<br><br>CHUỖI CUNG ỨNG TOÀN CẦU LÂM NGUY</div>
+      <div class="progress-bg"><div class="progress-fill"></div></div>
+    </div>
+
+    <script>
+      window.__timelines = window.__timelines || {};
+      const tl = gsap.timeline({ paused: true });
+
+      // -- S1 (Starts strictly at 0)
+      tl.from("#s1 .hero-img-wrapper", { scale: 1.2, x: 50, duration: 2.0, ease: "power3.out" }, 0.2);
+      tl.to("#s1 .hero-img", { scale: 1.05, duration: 13, ease: "none" }, 0.2); // Ken burns
+      tl.from("#s1 .headline .l1", { y: 60, opacity: 0, duration: 0.8, ease: "power3.out" }, 0.5);
+      tl.from("#s1 .headline .l2", { y: 60, opacity: 0, duration: 0.8, ease: "power3.out" }, 0.8);
+      tl.from("#s1 .headline .l3", { y: 60, opacity: 0, duration: 0.8, ease: "power3.out" }, 1.1);
+      tl.from("#s1 .red-bar", { width: 0, duration: 1, ease: "power4.out" }, 1.6);
+
+      // -- S2 (Starts at 13.1)
+      tl.from("#s2", { opacity: 0, duration: 0.5, ease: "none" }, 13.1);
+      tl.from("#s2 .quote-box", { x: -60, opacity: 0, duration: 1.0, ease: "power3.out" }, 13.3);
+      tl.from("#s2 .s2-img", { scale: 1.1, opacity: 0, duration: 1.2, ease: "power2.out" }, 13.5);
+
+      // -- S3 (Starts at 27.0)
+      tl.from("#s3", { opacity: 0, duration: 0.5, ease: "none" }, 27.0);
+      tl.from("#s3 .timer", { scale: 0.8, opacity: 0, duration: 1.2, ease: "elastic.out(1, 0.5)" }, 27.3);
+      tl.from("#s3 .timer-sub", { y: -20, opacity: 0, duration: 0.8, ease: "power2.out" }, 27.6);
+      tl.from("#s3 .alert-box", { scale: 1.1, opacity: 0, duration: 0.6, ease: "power3.out" }, 28.5);
+
+      // -- S4 (Starts at 42.3)
+      tl.from("#s4", { opacity: 0, duration: 0.5, ease: "none" }, 42.3);
+      tl.from("#s4 .giant-text", { letterSpacing: "20px", scale: 1.2, opacity: 0, duration: 1.5, ease: "expo.out" }, 42.5);
+      tl.from("#s4 .sub-text", { y: 30, opacity: 0, duration: 1, ease: "power2.out" }, 43.2);
+
+      // -- S5 (Starts at 56.8)
+      tl.from("#s5", { opacity: 0, duration: 0.5, ease: "none" }, 56.8);
+      tl.from("#s5 .map-img", { scale: 1.1, opacity: 0, duration: 1.5, ease: "power2.out" }, 57.0);
+      tl.to("#s5 .circle-path", { strokeDashoffset: 0, duration: 2.0, ease: "power2.inOut" }, 57.8);
+      tl.from("#s5 .map-text", { y: 40, opacity: 0, duration: 1.0, ease: "power3.out" }, 58.0);
+
+      // -- S6 (Starts at 72.8)
+      tl.from("#s6", { opacity: 0, duration: 0.5, ease: "none" }, 72.8);
+      tl.from("#s6 .final-text", { y: -40, opacity: 0, duration: 1.5, ease: "power3.out" }, 73.2);
+      tl.to("#s6 .progress-fill", { width: "100%", duration: 10.5, ease: "none" }, 73.0);
+      
+      // S6 Outro
+      tl.to("#s6", { opacity: 0, duration: 1.0, ease: "none" }, 83.0);
+
+      window.__timelines["main"] = tl;
+    </script>
+  </div>
+</body>
+</html>

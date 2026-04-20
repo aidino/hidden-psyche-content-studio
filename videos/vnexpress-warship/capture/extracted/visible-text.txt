@@ -1,0 +1,368 @@
+[a] Thế giới
+[a] Danh mục
+[a] Đăng nhập
+[a] Thông báo
+[a] Ý kiến
+[a] Tin đã xem
+[a] Bật nhận thông báo
+[span] Đang tải dữ liệu...
+[a] Xung đột Trung Đông
+[a] Tân Lãnh tụ Tối cao
+[a] Diễn biến tập kích
+[a] Ngày hỗn loạn
+[a] Ảnh
+[a] Thương vong
+[a] Thế giới
+[a] Quân sự
+[span] Thứ hai, 20/4/2026, 06:14 (GMT+7)
+[h1] Chiến hạm Mỹ nã pháo, bắt tàu hàng Iran
+[span] Chiến hạm Mỹ nã pháo, bắt tàu hàng Iran
+[p] Khu trục hạm Mỹ sử dụng pháo hạm 127 mm để vô hiệu hóa tàu hàng treo cờ Iran đang tìm cách vượt vòng phong tỏa.
+[p] "Tàu hàng Touska treo cờ Iran hôm nay cố gắng vượt vòng phong tỏa của hải quân Mỹ, song không thành công. Tàu khu trục USS Spruance bám theo Touska và yêu cầu dừng lại, nhưng thủy thủ đoàn Iran từ chối tuân lệnh, nên chiến hạm Mỹ đã bắn thủng phòng máy của phương tiện", Tổng thống Mỹ Donald Trump cho biết trong bài đăng trên mạng xã hội Truth Social hôm 19/4.
+[p] Bộ tư lệnh Trung tâm (CENTCOM), cơ quan đặc trách hoạt động của quân đội Mỹ, sau đó công bố video khu trục hạm USS Spruance di chuyển song song với tàu Touska. Sĩ quan liên lạc Mỹ nói qua điện đàm rằng "tàu Touska, yêu cầu rời khỏi phòng máy, chúng tôi chuẩn bị khai hỏa", trước khi USS Spruance nã ít nhất 3 phát đạn pháo 127 mm về phía mục tiêu.
+[span] Video Player is loading.
+[span] Dừng
+[span] Hiện tại
+[span] 0:12
+[span] Thời lượng
+[span] 0:34
+[span] Đã tải
+[span] : 0%
+[span] Tiến trình
+[span] : 0%
+[span] Bỏ tắt tiếng
+[span] Tỷ lệ phát lại
+[span] Chương mục
+[li] Chương mục
+[span] Descriptions
+[span] descriptions off
+[span] , selected
+[span] Audio Track
+[span] Toàn màn hình
+[p] This is a modal window.
+[div] The media playback was aborted due to a corruption problem or because the media used features your browser did not support.
+[p] Beginning of dialog window. Escape will cancel and close the window.
+[legend] Text
+[label] Color
+[option] White
+[option] Black
+[option] Red
+[option] Green
+[option] Blue
+[option] Yellow
+[option] Magenta
+[option] Cyan
+[label] Transparency
+[option] Opaque
+[option] Semi-Transparent
+[legend] Background
+[label] Color
+[option] Black
+[option] White
+[option] Red
+[option] Green
+[option] Blue
+[option] Yellow
+[option] Magenta
+[option] Cyan
+[label] Transparency
+[option] Opaque
+[option] Semi-Transparent
+[option] Transparent
+[legend] Window
+[label] Color
+[option] Black
+[option] White
+[option] Red
+[option] Green
+[option] Blue
+[option] Yellow
+[option] Magenta
+[option] Cyan
+[label] Transparency
+[option] Transparent
+[option] Semi-Transparent
+[option] Opaque
+[legend] Font Size
+[option] 50%
+[option] 75%
+[option] 100%
+[option] 125%
+[option] 150%
+[option] 175%
+[option] 200%
+[option] 300%
+[option] 400%
+[legend] Text Edge Style
+[option] None
+[option] Raised
+[option] Depressed
+[option] Uniform
+[option] Dropshadow
+[legend] Font Family
+[option] Proportional Sans-Serif
+[option] Monospace Sans-Serif
+[option] Proportional Serif
+[option] Monospace Serif
+[option] Casual
+[option] Script
+[option] Small Caps
+[button] Reset
+[span] restore all settings to the default values
+[button] Done
+[span] Close Modal Dialog
+[p] End of dialog window.
+[p] Khu trục hạm USS Spruance nã đạn pháo vào tàu Touska trên biển ngày 19/4. Video:
+[em] CENTCOM
+[p] "Khu trục hạm USS Spruance tiếp cận tàu Touska khi phương tiện di chuyển với tốc độ 31 km/h hướng đến cảng Bandar Abbas. Lực lượng Mỹ đã phát cảnh báo nhiều lần rằng tàu hàng treo cờ Iran đang vi phạm lệnh phong tỏa. Thủy thủ đoàn không tuân thủ cảnh báo trong suốt 6 tiếng", CENTCOM thông báo.
+[p] Binh sĩ thuộc Đơn vị Thủy quân lục chiến Viễn chinh số 31 của Mỹ đã đổ bộ và kiểm soát tàu.
+[div] Quảng cáo
+[p] Bộ tư lệnh Trung tâm Khatam al-Anbiya, "đầu não tối cao" của các lực lượng vũ trang Iran, xác nhận thông tin về sự việc. "Mỹ đã vi phạm lệnh ngừng bắn và thực hiện hành vi cướp biển nhằm vào tàu thương mại Iran trên biển Oman. Lực lượng vũ trang Iran sẽ sớm trả đũa hành động của quân đội Mỹ", cơ quan này cho hay.
+[p] Dữ liệu trên trang theo dõi hàng hải
+[em] Marine Traffic
+[p] cho thấy khoảng 6 tiếng trước khi ông Trump đưa ra thông báo, tàu Touska đang ở cách thành phố Chabahar tại miền nam Iran khoảng 45 km. Trang
+[em] Tanker Tracker
+[p] cho thấy Touska đã khởi hành từ Malaysia.
+[p] Sự việc xảy ra trong lúc căng thẳng leo thang ở eo biển Hormuz, tuyến hàng hải huyết mạch đối với nguồn cung dầu mỏ và khí đốt cho toàn thế giới. Khu vực này đã bị đóng cửa gần như hoàn toàn sau khi Mỹ và Israel phát động chiến dịch nhằm vào Iran ngày 28/2.
+[p] Eo biển Hormuz và vùng Vịnh. Đồ họa:
+[em] Guardian
+[p] Quân đội Mỹ ngày 13/4 bắt đầu nỗ lực chặn tàu thuyền đến và đi từ các cảng của Iran, sau khi cuộc đàm phán ở Pakistan hai ngày trước đó kết thúc mà không có kết quả và Iran từ chối mở cửa trở lại tuyến đường biển trọng yếu nói trên.
+[p] Iran ngày 17/4 thông báo mở cửa eo biển Hormuz để hoan nghênh lệnh ngừng bắn giữa Israel và Lebanon có hiệu lực, song tiếp tục phong tỏa tuyến hàng hải này chỉ sau một ngày để đáp trả chiến dịch ngăn chặn cảng biển do Mỹ thực thi.
+[p] Phát ngôn viên Bộ Ngoại giao Iran Esmaeil Baqaei tuyên bố Mỹ phong tỏa các cảng và bờ biển của Iran không chỉ vi phạm lệnh ngừng bắn do Pakistan làm trung gian, mà còn là "hành động bất hợp pháp, phạm tội và trừng phạt tập thể người dân".
+[strong] Nguyễn Tiến
+[p] (Theo
+[em] AFP, AP, Reuters
+[a] Ông Trump tiếp tục dọa 'phá hủy mọi cây cầu, nhà máy điện' ở Iran
+[a] Ông Trump cảnh báo Mỹ sẽ phá hủy mọi cây cầu và nhà máy điện ở Iran nếu Tehran không chấp nhận thỏa thuận của Washington.
+[a] Iran bổ sung bệ phóng tên lửa 'nhanh hơn trước chiến sự'
+[a] Tướng Iran khẳng định nước này đang nhanh chóng bổ sung các bệ phóng tên lửa và UAV, cho rằng Mỹ - Israel "đã thua".
+[a] Ngày hỗn loạn ở eo biển Hormuz
+[a] Eo biển Hormuz rơi vào hỗn loạn khi Mỹ và Iran liên tục đưa ra các tuyên bố trái chiều, khiến hoạt động của tàu thuyền thêm gián đoạn.
+[a] Trở lại Thế giới
+[a] Lưu
+[span] Chủ đề:
+[h2] Xung đột Trung Đông
+[a] Vingroup sắp ra mắt 'Siêu dự án' 6.206 ha tại vịnh Hạ Long
+[a] Vốn đầu tư 18 tỷ USD cùng quy mô 6.206 hứa hẹn sẽ trở thành thành phố kỳ quan kết nối toàn cầu.
+[a] Ra mắt 2 tòa căn hộ hạng sang cuối cùng tại Vinhomes Cổ Loa
+[a] Lumière Essence Peak là dự án cao cấp thuộc bộ sưu tập Lumière Series của Masterise Homes.
+[span] SmartAds
+[a] Xem nhiều
+[a] Tham vọng vẽ lại bản đồ năng lượng Trung Đông của Thổ Nhĩ Kỳ
+[a] Iran tuyên bố sẽ tấn công các tàu qua eo biển Hormuz
+[a] Ông Trump: Mỹ cấm Israel ném bom Lebanon
+[a] Ngày hỗn loạn ở eo biển Hormuz
+[a] Xuồng Iran tấn công tàu dầu ở eo biển Hormuz
+[h3] Ý kiến
+[p] Hãy
+[a] đăng nhập
+[p] hoặc
+[a] tạo tài khoản
+[p] để gửi bình luận
+[button] Gửi
+[p] Hãy
+[a] đăng nhập
+[p] hoặc
+[a] tạo tài khoản
+[p] để gửi bình luận
+[button] Gửi
+[a] Chuyên gia tư vấn
+[a] Quan tâm nhất
+[a] Mới nhất
+[a] bicon97
+[p] Khổ nhất vẫn là những thủy thủ đang phải thi hành nhiệm vụ!
+[span] Thích
+[a] Trả lời
+[span] 36' trước
+[h3] Tags:
+[a] Iran
+[a] Donald Trump
+[a] khu trục hạm Mỹ
+[a] cảng Iran
+[a] Thế giới
+[a] Iran 'không có kế hoạch tiếp tục đàm phán với Mỹ'
+[a] Iran dường như sẽ không cử phái đoàn tham gia vòng đàm phán thứ hai ở Pakistan, dù ông Trump thông báo đoàn Mỹ sắp lên đường.
+[span] 1' trước
+[a] Thế giới
+[a] Xả súng tại Mỹ, 8 trẻ em thiệt mạng
+[a] Nghi phạm nổ súng khiến 8 trẻ em thiệt mạng tại bang Louisiana, cảnh sát nhận định đây là một vụ bạo lực gia đình.
+[span] 27' trước
+[a] Nỗi bất an của đảng Cộng hòa về chiến sự Iran
+[a] Chiến sự Iran khiến các đảng viên Cộng hòa ngày càng bất an, khi hệ lụy từ xung đột khiến triển vọng của họ trong bầu cử giữa kỳ trở nên bấp bênh.
+[span] 2h trước
+[a] Thế giới
+[a] Nạn đục trộm bình xăng ở Mỹ khi giá nhiên liệu tăng
+[a] Chỉ với những dụng cụ đơn giản, kẻ trộm có thể khoan thủng bình xăng rồi rút nhiên liệu, khiến chủ xe phải gánh những khoản sửa chữa tốn kém.
+[a] Ra mắt dự án Mipec 54 Tố Hữu 104 căn liền kề bảng giá mới tháng 4
+[a] Liền kề, shophouse 2 mặt tiền đường Lương Thế Vinh, xây dựng 4 tầng thuận tiện kinh doanh và ở.
+[a] Ông Trump tiếp tục dọa 'phá hủy mọi cây cầu, nhà máy điện' ở Iran
+[a] Ông Trump cảnh báo Mỹ sẽ phá hủy mọi cây cầu và nhà máy điện ở Iran nếu Tehran không chấp nhận thỏa thuận của Washington.
+[a] Thế giới
+[a] Cháy làng ven biển ở Malaysia, hơn 1.000 ngôi nhà bị thiêu rụi
+[a] Vụ hỏa hoạn lớn đã phá hủy khoảng 1.000 ngôi nhà tại làng ven biển ở bang Sabah của Malaysia, khiến hàng nghìn người phải di dời.
+[a] Thế giới
+[a] Iran bổ sung bệ phóng tên lửa 'nhanh hơn trước chiến sự'
+[a] Tướng Iran khẳng định nước này đang nhanh chóng bổ sung các bệ phóng tên lửa và UAV, cho rằng Mỹ - Israel "đã thua".
+[a] Thế giới
+[a] Ngày hỗn loạn ở eo biển Hormuz
+[a] Eo biển Hormuz rơi vào hỗn loạn khi Mỹ và Iran liên tục đưa ra các tuyên bố trái chiều, khiến hoạt động của tàu thuyền thêm gián đoạn.
+[a] Thế giới
+[a] Căn hộ hạng sang Vinhomes Cổ Loa giá dự kiến từ 5,1 tỷ đồng/căn
+[a] Chiết khấu 17% khi thanh toán sớm, bàn giao nội thất cao cấp theo tiêu chuẩn Lumière.
+[a] Ra mắt dự án Mipec 54 Tố Hữu 104 căn liền kề bảng giá mới tháng 4
+[a] Liền kề, shophouse 2 mặt tiền đường Lương Thế Vinh, xây dựng 4 tầng thuận tiện kinh doanh và ở.
+[a] 'Siêu dự án' 18 tỷ USD của Vingroup tại Hạ Long đang dần lộ diện
+[a] Với quy mô lên đến 6.206 ha, dự án được định vị là đại đô thị đẳng cấp thế giới.
+[a] Thông tin quy hoạch và tiến độ dự án Vinhomes Global Gate Hạ Long
+[a] Cập nhật thông tin quy hoạch, hạ tầng và pháp lý dự án Vinhomes Global Gate Hạ Long.
+[div] -15%
+[a] Ghế Bập Bênh Thư Giãn Hình Vỏ Trứng Liệu Chân Gỗ
+[a] 1.309.000
+[a] 1.109.000
+[a] Deal hot
+[div] -53%
+[a] Đèn Năng Lượng Mặt Trời - Công Suất 3000W - Vỏ Nhựa ABS-IP69
+[a] 579.000
+[a] 269.000
+[a] Flash Sale
+[div] -45%
+[a] Đèn bàn học HY2266 Bóng LED Chống Cận Bảo Vệ Mắt
+[a] 269.000
+[a] 146.990
+[a] Flash Sale
+[div] -50%
+[a] Áo Điều Hòa Quạt Gió KAW Chưa Bao Gồm Phụ Kiện Và Pin
+[a] 510.000
+[a] 255.000
+[a] Flash Sale
+[a] Cà phê phin giấy Arabica Cầu Đất DalatFarm - Túi 10 g
+[a] 18.000
+[a] Bán chạy
+[div] Dalat Farm
+[a] Cà phê phin giấy Arabica Cầu Đất DalatFarm - Hộp 10 túi x 10 g
+[a] 180.000
+[a] Bán chạy
+[div] Dalat Farm
+[span] Play Video
+[span] Unmute
+[p] This is a modal window.
+[p] Beginning of dialog window. Escape will cancel and close the window.
+[legend] Text
+[label] Color
+[option] White
+[option] Black
+[option] Red
+[option] Green
+[option] Blue
+[option] Yellow
+[option] Magenta
+[option] Cyan
+[label] Opacity
+[option] Opaque
+[option] Semi-Transparent
+[legend] Text Background
+[label] Color
+[option] Black
+[option] White
+[option] Red
+[option] Green
+[option] Blue
+[option] Yellow
+[option] Magenta
+[option] Cyan
+[label] Opacity
+[option] Opaque
+[option] Semi-Transparent
+[option] Transparent
+[legend] Caption Area Background
+[label] Color
+[option] Black
+[option] White
+[option] Red
+[option] Green
+[option] Blue
+[option] Yellow
+[option] Magenta
+[option] Cyan
+[label] Opacity
+[option] Transparent
+[option] Semi-Transparent
+[option] Opaque
+[legend] Font Size
+[option] 50%
+[option] 75%
+[option] 100%
+[option] 125%
+[option] 150%
+[option] 175%
+[option] 200%
+[option] 300%
+[option] 400%
+[legend] Text Edge Style
+[option] None
+[option] Raised
+[option] Depressed
+[option] Uniform
+[option] Drop shadow
+[legend] Font Family
+[option] Proportional Sans-Serif
+[option] Monospace Sans-Serif
+[option] Proportional Serif
+[option] Monospace Serif
+[option] Casual
+[option] Script
+[option] Small Caps
+[button] Reset
+[button] Done
+[span] Close Modal Dialog
+[p] End of dialog window.
+[a] Xịt mọc tóc Lab on Hair 160ml xịt dưỡng tóc với giấm táo
+[a] 130.000
+[a] Giá ưu đãi
+[div] Lab On Hair
+[a] Combo 3 kem đánh răng CLOSEUP White Now 100g
+[a] 280.000
+[a] Giá ưu đãi
+[div] Unilever
+[a] Trang chủ
+[a] Infographics
+[a] Thế giới
+[a] Kinh doanh
+[a] Khoa học công nghệ
+[a] Góc nhìn
+[a] Giải trí
+[a] Pháp luật
+[a] Bất động sản
+[a] Sức khỏe
+[a] Thể thao
+[a] Giáo dục
+[a] Đời sống
+[a] Thư giãn
+[a] Mới nhất
+[a] Xem nhiều
+[a] Tin nóng
+[a] Lịch vạn niên
+[p] Tải ứng dụng
+[a] VnExpress
+[a] International
+[a] Tòa soạn
+[a] Quảng cáo
+[p] Đường dây nóng
+[strong] 083.888.0123
+[p] (Hà Nội)
+[strong] 082.233.3555
+[p] (TP. Hồ Chí Minh)
+[span] Báo điện tử
+[a] Điều khoản sử dụng
+[a] Chính sách bảo mật
+[span] Theo dõi VnExpress trên
+[strong] Báo tiếng Việt nhiều người xem nhất
+[p] Thuộc Bộ Khoa học và Công nghệ
+[p] Số giấy phép: 548/GP-BTTTT do Bộ Thông tin và Truyền thông cấp ngày 24/08/2021
+[p] Tổng biên tập: Phạm Văn Hiếu
+[p] Địa chỉ: Tầng 10, Tòa A FPT Tower, số 10 Phạm Văn Bạch, phường Cầu Giấy, Hà Nội
+[p] Điện thoại: 024 7300 8899 - máy lẻ 4500
+[a] Email: webmaster@vnexpress.net
+[p] © 1997-2026. Toàn bộ bản quyền thuộc VnExpress
+[div] Tải ứng dụng VnExpress
+[div] Tải ứng dụng VnExpress International

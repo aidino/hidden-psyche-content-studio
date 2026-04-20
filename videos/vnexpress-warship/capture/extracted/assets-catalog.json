@@ -1,0 +1,807 @@
+[
+  {
+    "url": "https://s1.vnecdn.net/vnexpress/restruct/i/v9805/v2_2019/pc/graphics/logo.svg",
+    "type": "Image",
+    "contexts": [
+      "img[src]"
+    ],
+    "notes": "VnExpress - Bao tieng Viet nhieu nguoi xem nhat",
+    "description": "VnExpress - Bao tieng Viet nhieu nguoi xem nhat",
+    "sectionClasses": "section top-header sticky",
+    "aboveFold": true
+  },
+  {
+    "url": "https://vnexpress.net/chien-ham-my-na-phao-bat-tau-hang-iran-5064408.html",
+    "type": "Image",
+    "contexts": [
+      "img[src]"
+    ],
+    "notes": null,
+    "sectionClasses": "section center",
+    "aboveFold": true,
+    "nearestHeading": "Chiến hạm Mỹ nã pháo, bắt tàu hàng Iran"
+  },
+  {
+    "url": "https://iv1.vnecdn.net/vnexpress/images/web/2026/04/20/chien-ham-my-ban-tau-hang-tim-cach-vuot-phong-toa-cang-iran-1776633132.jpg?w=0&h=0&q=100&dpr=1&fit=crop&s=mPpy0LanaPj6GPrNZNlRMg",
+    "type": "Image",
+    "contexts": [
+      "img[src]"
+    ],
+    "notes": "Chiến hạm Mỹ nã pháo, bắt tàu hàng Iran",
+    "description": "Chiến hạm Mỹ nã pháo, bắt tàu hàng Iran",
+    "nearestHeading": "Ông Trump tiếp tục dọa 'phá hủy mọi cây cầu, nhà máy điện' ở Iran",
+    "sectionClasses": "fck_detail ",
+    "aboveFold": true
+  },
+  {
+    "url": "https://i1-vnexpress.vnecdn.net/2026/04/20/hormuz-1776633369-2901-1776633489.jpg?w=680&h=0&q=100&dpr=1&fit=crop&s=KqOLm28Gx8LjS1m9oz2k-A",
+    "type": "Image",
+    "contexts": [
+      "img[src]",
+      "data-src",
+      "source[srcset]"
+    ],
+    "notes": "Eo biển Hormuz và vùng Vịnh. Đồ họa: Guardian",
+    "description": "Eo biển Hormuz và vùng Vịnh. Đồ họa: Guardian",
+    "nearestHeading": "Ông Trump tiếp tục dọa 'phá hủy mọi cây cầu, nhà máy điện' ở Iran",
+    "sectionClasses": "fck_detail ",
+    "aboveFold": false
+  },
+  {
+    "url": "https://i1-vnexpress.vnecdn.net/2026/04/19/5563187178137269267a-177660826-1141-1169-1776608499.jpg?w=180&h=108&q=100&dpr=1&fit=crop&s=jnxGYXW8YvZtOEsK0fURWA",
+    "type": "Image",
+    "contexts": [
+      "img[src]",
+      "data-src",
+      "source[srcset]"
+    ],
+    "notes": "Ông Trump tiếp tục dọa 'phá hủy mọi cây cầu, nhà máy điện' ở Iran",
+    "description": "Ông Trump tiếp tục dọa 'phá hủy mọi cây cầu, nhà máy điện' ở Iran",
+    "nearestHeading": "Ông Trump tiếp tục dọa 'phá hủy mọi cây cầu, nhà máy điện' ở Iran",
+    "sectionClasses": "item-news",
+    "aboveFold": false
+  },
+  {
+    "url": "https://i1-vnexpress.vnecdn.net/2026/04/19/5563187178137269265a-177659834-1234-8554-1776598445.jpg?w=180&h=108&q=100&dpr=1&fit=crop&s=ra1JzzzQoORkFi-GZ2JOaw",
+    "type": "Image",
+    "contexts": [
+      "img[src]",
+      "data-src",
+      "source[srcset]"
+    ],
+    "notes": "Iran bổ sung bệ phóng tên lửa 'nhanh hơn trước chiến sự'",
+    "description": "Iran bổ sung bệ phóng tên lửa 'nhanh hơn trước chiến sự'",
+    "nearestHeading": "Iran bổ sung bệ phóng tên lửa 'nhanh hơn trước chiến sự'",
+    "sectionClasses": "item-news",
+    "aboveFold": false
+  },
+  {
+    "url": "https://i1-vnexpress.vnecdn.net/2026/04/19/afp-aa-v1-highres-shiptrafficr-6243-1391-1776592604.jpg?w=180&h=108&q=100&dpr=1&fit=crop&s=7hClOjBmZzRZhtKvtTxhkw",
+    "type": "Image",
+    "contexts": [
+      "img[src]",
+      "data-src",
+      "source[srcset]"
+    ],
+    "notes": "Ngày hỗn loạn ở eo biển Hormuz",
+    "description": "Ngày hỗn loạn ở eo biển Hormuz",
+    "nearestHeading": "Ngày hỗn loạn ở eo biển Hormuz",
+    "sectionClasses": "item-news",
+    "aboveFold": false
+  },
+  {
+    "url": "https://static.eclick.vn/uploads/5x3/2026/04/16/69e112fe5a4a7.jpeg",
+    "type": "Image",
+    "contexts": [
+      "img[src]"
+    ],
+    "notes": "Vingroup sắp ra mắt 'Siêu dự án' 6.206 ha tại vịnh Hạ Long",
+    "description": "Vingroup sắp ra mắt 'Siêu dự án' 6.206 ha tại vịnh Hạ Long",
+    "nearestHeading": "Vingroup sắp ra mắt 'Siêu dự án' 6.206 ha tại vịnh Hạ Long",
+    "sectionClasses": "item-news",
+    "aboveFold": false
+  },
+  {
+    "url": "https://static.eclick.vn/uploads/5x3/2025/12/30/695356b54bd65.jpeg",
+    "type": "Image",
+    "contexts": [
+      "img[src]"
+    ],
+    "notes": "Ra mắt 2 tòa căn hộ hạng sang cuối cùng tại Vinhomes Cổ Loa",
+    "description": "Ra mắt 2 tòa căn hộ hạng sang cuối cùng tại Vinhomes Cổ Loa",
+    "nearestHeading": "Ra mắt 2 tòa căn hộ hạng sang cuối cùng tại Vinhomes Cổ Loa",
+    "sectionClasses": "item-news",
+    "aboveFold": false
+  },
+  {
+    "url": "https://i1-vnexpress.vnecdn.net/2026/04/17/afpk7zu-v1-highres-turkeygreec-5776-7724-1776414656.jpg?w=300&h=180&q=100&dpr=1&fit=crop&s=Nxi78UgMeFFQRtJuTffvIg",
+    "type": "Image",
+    "contexts": [
+      "img[src]",
+      "data-src",
+      "source[srcset]"
+    ],
+    "notes": "Tham vọng vẽ lại bản đồ năng lượng Trung Đông của Thổ Nhĩ Kỳ",
+    "description": "Tham vọng vẽ lại bản đồ năng lượng Trung Đông của Thổ Nhĩ Kỳ",
+    "sectionClasses": "item-news small-thumb",
+    "aboveFold": true
+  },
+  {
+    "url": "https://i1-vnexpress.vnecdn.net/2026/04/19/2024t000000z-mt1nurpho000kpvod-2029-5850-1776555565.jpg?w=300&h=180&q=100&dpr=1&fit=crop&s=uZtdqyCaPzCUJ95udlyj2g",
+    "type": "Image",
+    "contexts": [
+      "img[src]",
+      "data-src",
+      "source[srcset]"
+    ],
+    "notes": "Iran tuyên bố sẽ tấn công các tàu qua eo biển Hormuz",
+    "description": "Iran tuyên bố sẽ tấn công các tàu qua eo biển Hormuz",
+    "sectionClasses": "item-news small-thumb",
+    "aboveFold": false
+  },
+  {
+    "url": "https://i1-vnexpress.vnecdn.net/2026/04/17/ap26106663188759-1776440988-6652-1776441203.jpg?w=300&h=180&q=100&dpr=1&fit=crop&s=3EVy4AZ9b_eXeQbd27o8MQ",
+    "type": "Image",
+    "contexts": [
+      "img[src]",
+      "data-src",
+      "source[srcset]"
+    ],
+    "notes": "Ông Trump\\: Mỹ cấm Israel ném bom Lebanon",
+    "description": "Ông Trump\\: Mỹ cấm Israel ném bom Lebanon",
+    "sectionClasses": "item-news small-thumb",
+    "aboveFold": false
+  },
+  {
+    "url": "https://i1-vnexpress.vnecdn.net/2026/04/19/afp-aa-v1-highres-shiptrafficr-6243-1391-1776592604.jpg?w=300&h=180&q=100&dpr=1&fit=crop&s=N5ZuExCpIa7eTfIo8dggAw",
+    "type": "Image",
+    "contexts": [
+      "img[src]",
+      "data-src",
+      "source[srcset]"
+    ],
+    "notes": "Ngày hỗn loạn ở eo biển Hormuz",
+    "description": "Ngày hỗn loạn ở eo biển Hormuz",
+    "sectionClasses": "item-news small-thumb",
+    "aboveFold": false,
+    "nearestHeading": "Ngày hỗn loạn ở eo biển Hormuz"
+  },
+  {
+    "url": "https://i1-vnexpress.vnecdn.net/2026/04/18/irgc-hormuz-jpeg-1776511765-7198-1776511774.jpg?w=300&h=180&q=100&dpr=1&fit=crop&s=heekXFbcxXx4IU9iXih1UQ",
+    "type": "Image",
+    "contexts": [
+      "img[src]",
+      "data-src",
+      "source[srcset]"
+    ],
+    "notes": "Xuồng Iran tấn công tàu dầu ở eo biển Hormuz",
+    "description": "Xuồng Iran tấn công tàu dầu ở eo biển Hormuz",
+    "sectionClasses": "item-news small-thumb",
+    "aboveFold": false
+  },
+  {
+    "url": "https://s1.vnecdn.net/vnexpress/restruct/c/v3890/images/graphics/loading1.gif",
+    "type": "Image",
+    "contexts": [
+      "img[src]"
+    ],
+    "notes": "Đang tải dữ liệu",
+    "description": "Đang tải dữ liệu",
+    "nearestHeading": "Ý kiến",
+    "sectionClasses": "section page-detail bottom-detail",
+    "aboveFold": true
+  },
+  {
+    "url": "https://a1.vnecdn.net/s21866560086840856237.jpg?w=60&h=60&s=lECoUdm8Yl8xQlTR2p5MWA&v=1",
+    "type": "Image",
+    "contexts": [
+      "img[src]"
+    ],
+    "notes": null,
+    "nearestHeading": "Ý kiến",
+    "sectionClasses": "section page-detail bottom-detail",
+    "aboveFold": false
+  },
+  {
+    "url": "https://s1.vnecdn.net/vnexpress/restruct/c/v3890/v2/wcomment/pc/vne/images/graphics/like.svg",
+    "type": "Image",
+    "contexts": [
+      "img[src]"
+    ],
+    "notes": "Thích",
+    "nearestHeading": "Ý kiến",
+    "sectionClasses": "section page-detail bottom-detail",
+    "aboveFold": false,
+    "description": "Thích"
+  },
+  {
+    "url": "https://i1-vnexpress.vnecdn.net/2026/04/20/Iran-1776642420-8819-1776642675.png?w=300&h=180&q=100&dpr=1&fit=crop&s=T8DpUSlqklA38xGuVYpThA",
+    "type": "Image",
+    "contexts": [
+      "img[src]",
+      "data-src",
+      "source[srcset]"
+    ],
+    "notes": "Iran 'không có kế hoạch tiếp tục đàm phán với Mỹ'",
+    "description": "Iran 'không có kế hoạch tiếp tục đàm phán với Mỹ'",
+    "nearestHeading": "Iran 'không có kế hoạch tiếp tục đàm phán với Mỹ'",
+    "sectionClasses": "item-news item-news-common thumb-left gaElementVisibility",
+    "aboveFold": false
+  },
+  {
+    "url": "https://i1-vnexpress.vnecdn.net/2026/04/20/5563187178137269268a-177662808-7737-2483-1776628225.jpg?w=300&h=180&q=100&dpr=1&fit=crop&s=AMIVMMFwZuTDD4KqkmNQ_A",
+    "type": "Image",
+    "contexts": [
+      "img[src]",
+      "data-src",
+      "source[srcset]"
+    ],
+    "notes": "Xả súng tại Mỹ, 8 trẻ em thiệt mạng",
+    "description": "Xả súng tại Mỹ, 8 trẻ em thiệt mạng",
+    "nearestHeading": "Xả súng tại Mỹ, 8 trẻ em thiệt mạng",
+    "sectionClasses": "item-news item-news-common thumb-left gaElementVisibility",
+    "aboveFold": false
+  },
+  {
+    "url": "https://i1-vnexpress.vnecdn.net/2026/04/18/afp-v3-highres-speakermikejohn-7622-9224-1776491122.jpg?w=300&h=180&q=100&dpr=1&fit=crop&s=oCjs0GY7cHRqoUkP3vuSsQ",
+    "type": "Image",
+    "contexts": [
+      "img[src]",
+      "data-src",
+      "source[srcset]"
+    ],
+    "notes": "Nỗi bất an của đảng Cộng hòa về chiến sự Iran",
+    "description": "Nỗi bất an của đảng Cộng hòa về chiến sự Iran",
+    "nearestHeading": "Nỗi bất an của đảng Cộng hòa về chiến sự Iran",
+    "sectionClasses": "item-news item-news-common thumb-left gaElementVisibility",
+    "aboveFold": false
+  },
+  {
+    "url": "https://i1-vnexpress.vnecdn.net/2026/04/19/image-1776574689-3954-1776575114.jpg?w=300&h=180&q=100&dpr=1&fit=crop&s=CjwY5axmIF_2Xj_JcdCAqw",
+    "type": "Image",
+    "contexts": [
+      "img[src]",
+      "data-src",
+      "source[srcset]"
+    ],
+    "notes": "Nạn đục trộm bình xăng ở Mỹ khi giá nhiên liệu tăng",
+    "description": "Nạn đục trộm bình xăng ở Mỹ khi giá nhiên liệu tăng",
+    "nearestHeading": "Nạn đục trộm bình xăng ở Mỹ khi giá nhiên liệu tăng",
+    "sectionClasses": "item-news item-news-common thumb-left gaElementVisibility",
+    "aboveFold": false
+  },
+  {
+    "url": "https://static.eclick.vn/uploads/5x3/2026/04/18/69e2ee771a889.jpeg",
+    "type": "Image",
+    "contexts": [
+      "img[src]"
+    ],
+    "notes": null,
+    "nearestHeading": "Ra mắt dự án Mipec 54 Tố Hữu 104 căn liền kề bảng giá mới tháng 4",
+    "sectionClasses": "item-news item-news-common thumb-left",
+    "aboveFold": false
+  },
+  {
+    "url": "https://i1-vnexpress.vnecdn.net/2026/04/19/5563187178137269267a-177660826-1141-1169-1776608499.jpg?w=300&h=180&q=100&dpr=1&fit=crop&s=Rvvcel5twg0EX8iE4LLeJA",
+    "type": "Image",
+    "contexts": [
+      "img[src]",
+      "data-src",
+      "source[srcset]"
+    ],
+    "notes": "Ông Trump tiếp tục dọa 'phá hủy mọi cây cầu, nhà máy điện' ở Iran",
+    "description": "Ông Trump tiếp tục dọa 'phá hủy mọi cây cầu, nhà máy điện' ở Iran",
+    "nearestHeading": "Ông Trump tiếp tục dọa 'phá hủy mọi cây cầu, nhà máy điện' ở Iran",
+    "sectionClasses": "item-news item-news-common thumb-left gaElementVisibility",
+    "aboveFold": false
+  },
+  {
+    "url": "https://i1-vnexpress.vnecdn.net/2026/04/19/5563187178137269266a-177660225-8341-7867-1776602530.jpg?w=300&h=180&q=100&dpr=1&fit=crop&s=uDeQCOKEq1kdrDrplJLmfQ",
+    "type": "Image",
+    "contexts": [
+      "img[src]",
+      "data-src",
+      "source[srcset]"
+    ],
+    "notes": "Cháy làng ven biển ở Malaysia, hơn 1\\.000 ngôi nhà bị thiêu rụi",
+    "description": "Cháy làng ven biển ở Malaysia, hơn 1\\.000 ngôi nhà bị thiêu rụi",
+    "nearestHeading": "Cháy làng ven biển ở Malaysia, hơn 1.000 ngôi nhà bị thiêu rụi",
+    "sectionClasses": "item-news item-news-common thumb-left gaElementVisibility",
+    "aboveFold": false
+  },
+  {
+    "url": "https://i1-vnexpress.vnecdn.net/2026/04/19/5563187178137269265a-177659834-1234-8554-1776598445.jpg?w=300&h=180&q=100&dpr=1&fit=crop&s=ELXE46d29W4M0081gsYb4g",
+    "type": "Image",
+    "contexts": [
+      "img[src]",
+      "data-src",
+      "source[srcset]"
+    ],
+    "notes": "Iran bổ sung bệ phóng tên lửa 'nhanh hơn trước chiến sự'",
+    "description": "Iran bổ sung bệ phóng tên lửa 'nhanh hơn trước chiến sự'",
+    "nearestHeading": "Iran bổ sung bệ phóng tên lửa 'nhanh hơn trước chiến sự'",
+    "sectionClasses": "item-news item-news-common thumb-left gaElementVisibility",
+    "aboveFold": false
+  },
+  {
+    "url": "https://static.eclick.vn/uploads/5x3/2026/01/07/695e20c195f1d.jpeg",
+    "type": "Image",
+    "contexts": [
+      "img[src]"
+    ],
+    "notes": null,
+    "nearestHeading": "Căn hộ hạng sang Vinhomes Cổ Loa giá dự kiến từ 5,1 tỷ đồng/căn",
+    "sectionClasses": "item-news item-news-common thumb-left",
+    "aboveFold": false
+  },
+  {
+    "url": "https://static.eclick.vn/uploads/5x3/2026/04/17/69e118790a0b5.jpeg",
+    "type": "Image",
+    "contexts": [
+      "img[src]"
+    ],
+    "notes": null,
+    "nearestHeading": "Ý kiến",
+    "sectionClasses": "section page-detail bottom-detail",
+    "aboveFold": false
+  },
+  {
+    "url": "https://static.eclick.vn/uploads/5x3/2026/04/17/69e119a299a58.jpeg",
+    "type": "Image",
+    "contexts": [
+      "img[src]"
+    ],
+    "notes": null,
+    "nearestHeading": "Ý kiến",
+    "sectionClasses": "section page-detail bottom-detail",
+    "aboveFold": false
+  },
+  {
+    "url": "https://static.eclick.vn/delivery/css/images/graphics/logo-sa-shopping.png",
+    "type": "Image",
+    "contexts": [
+      "img[src]"
+    ],
+    "notes": null,
+    "nearestHeading": "Ý kiến",
+    "sectionClasses": "section page-detail bottom-detail",
+    "aboveFold": false
+  },
+  {
+    "url": "https://static.eclick.vn/delivery/css/images/graphics/logo-sa-shopping-hover.png",
+    "type": "Image",
+    "contexts": [
+      "img[src]"
+    ],
+    "notes": null,
+    "nearestHeading": "Ý kiến",
+    "sectionClasses": "section page-detail bottom-detail",
+    "aboveFold": false
+  },
+  {
+    "url": "https://static.eclick.vn/uploads/1x1/2026/04/19/69e487bb5031f.webp",
+    "type": "Image",
+    "contexts": [
+      "img[src]"
+    ],
+    "notes": null,
+    "nearestHeading": "Ý kiến",
+    "sectionClasses": "section page-detail bottom-detail",
+    "aboveFold": false
+  },
+  {
+    "url": "https://static.eclick.vn/uploads/1x1/2026/04/19/69e487bb879c1.webp",
+    "type": "Image",
+    "contexts": [
+      "img[src]"
+    ],
+    "notes": null,
+    "nearestHeading": "Ý kiến",
+    "sectionClasses": "section page-detail bottom-detail",
+    "aboveFold": false
+  },
+  {
+    "url": "https://static.eclick.vn/uploads/1x1/2026/04/19/69e487bbba1cf.webp",
+    "type": "Image",
+    "contexts": [
+      "img[src]"
+    ],
+    "notes": null,
+    "nearestHeading": "Ý kiến",
+    "sectionClasses": "section page-detail bottom-detail",
+    "aboveFold": false
+  },
+  {
+    "url": "https://static.eclick.vn/uploads/1x1/2026/04/19/69e47b38a0904.webp",
+    "type": "Image",
+    "contexts": [
+      "img[src]"
+    ],
+    "notes": null,
+    "nearestHeading": "Ý kiến",
+    "sectionClasses": "section page-detail bottom-detail",
+    "aboveFold": false
+  },
+  {
+    "url": "https://static.eclick.vn/uploads/1x1/2026/04/17/69e1b14b0ee8b.webp",
+    "type": "Image",
+    "contexts": [
+      "img[src]"
+    ],
+    "notes": null,
+    "nearestHeading": "Ý kiến",
+    "sectionClasses": "section page-detail bottom-detail",
+    "aboveFold": false
+  },
+  {
+    "url": "https://static.eclick.vn/uploads/1x1/2026/04/17/69e1b14b1a4a6.webp",
+    "type": "Image",
+    "contexts": [
+      "img[src]"
+    ],
+    "notes": null,
+    "nearestHeading": "Ý kiến",
+    "sectionClasses": "section page-detail bottom-detail",
+    "aboveFold": false
+  },
+  {
+    "url": "https://static.eclick.vn/uploads/1x1/2026/04/06/69d31c2578010.webp",
+    "type": "Image",
+    "contexts": [
+      "img[src]"
+    ],
+    "notes": null,
+    "nearestHeading": "Ý kiến",
+    "sectionClasses": "section page-detail bottom-detail",
+    "aboveFold": true
+  },
+  {
+    "url": "https://static.eclick.vn/uploads/1x1/2026/04/06/69d31c2666645.webp",
+    "type": "Image",
+    "contexts": [
+      "img[src]"
+    ],
+    "notes": null,
+    "nearestHeading": "Ý kiến",
+    "sectionClasses": "section page-detail bottom-detail",
+    "aboveFold": false
+  },
+  {
+    "url": "https://s1.vnecdn.net/vnexpress/restruct/i/v9805/v2_2019/pc/graphics/Download_Huawei.png",
+    "type": "Image",
+    "contexts": [
+      "img[src]"
+    ],
+    "notes": "VnExpress.net",
+    "description": "VnExpress.net",
+    "sectionClasses": "footer container",
+    "aboveFold": true
+  },
+  {
+    "url": "https://s1.vnecdn.net/vnexpress/restruct/i/v9805/v2_2019/pc/graphics/Download_AppStore.png",
+    "type": "Image",
+    "contexts": [
+      "img[src]"
+    ],
+    "notes": "VnExpress.net",
+    "description": "VnExpress.net",
+    "sectionClasses": "footer container",
+    "aboveFold": true
+  },
+  {
+    "url": "https://s1.vnecdn.net/vnexpress/restruct/i/v9805/v2_2019/pc/graphics/Download_PlayStore.png",
+    "type": "Image",
+    "contexts": [
+      "img[src]"
+    ],
+    "notes": "VnExpress.net",
+    "description": "VnExpress.net",
+    "sectionClasses": "footer container",
+    "aboveFold": true
+  },
+  {
+    "url": "https://s1.vnecdn.net/vnexpress/restruct/i/v9805/v2_2019/pc/graphics/qr_app.svg",
+    "type": "Image",
+    "contexts": [
+      "img[src]"
+    ],
+    "notes": "qr_app",
+    "description": "qr_app",
+    "sectionClasses": "footer container",
+    "aboveFold": true
+  },
+  {
+    "url": "https://s1.vnecdn.net/vnexpress/restruct/i/v9805/v2_2019/pc/graphics/qr_app_en.svg",
+    "type": "Image",
+    "contexts": [
+      "img[src]"
+    ],
+    "notes": "qr_app_en",
+    "description": "qr_app_en",
+    "sectionClasses": "footer container",
+    "aboveFold": true
+  },
+  {
+    "url": "https://apis.adbro.me/api/v2/advertising/cookie_sync?uid=39b73857-2989-4f9d-9613-669726aedb63&r=w5z2i&setEd=true&externalSystemId=criteo&externalUserId=vjsoIl9TRk1aWGswelJvNUNOb2FhUjJnS3ByT3paJTJGdkttTGFENE5MNGNlaU9leUR5N3VhZjU0MTE1RUJNalFVU1Q1ZUdiVmVRV3lzbkY2THFNOUI1c0JSSG9Idk5tTUdUeW9OemFBc3olMkYya204c3FKcDFtT05tOGwxJTJGeVM0ZWxZY09iNA",
+    "type": "Image",
+    "contexts": [
+      "img[src]"
+    ],
+    "notes": null,
+    "aboveFold": false
+  },
+  {
+    "url": "https://i1-vnexpress.vnecdn.net/2026/04/20/hormuz-1776633369-2901-1776633489.jpg?w=1020&h=0&q=100&dpr=1&fit=crop&s=e2wqOQV_R0iIMMdg2W-3uQ",
+    "type": "Image",
+    "contexts": [
+      "source[srcset]"
+    ],
+    "notes": null
+  },
+  {
+    "url": "https://i1-vnexpress.vnecdn.net/2026/04/20/hormuz-1776633369-2901-1776633489.jpg?w=680&h=0&q=100&dpr=2&fit=crop&s=a4FpNNUd9MY_CSqqnig7cg",
+    "type": "Image",
+    "contexts": [
+      "source[srcset]"
+    ],
+    "notes": null
+  },
+  {
+    "url": "https://i1-vnexpress.vnecdn.net/2026/04/19/5563187178137269267a-177660826-1141-1169-1776608499.jpg?w=180&h=108&q=100&dpr=2&fit=crop&s=E40X4jBFsN63JVVGHvW8FA",
+    "type": "Image",
+    "contexts": [
+      "source[srcset]"
+    ],
+    "notes": null
+  },
+  {
+    "url": "https://i1-vnexpress.vnecdn.net/2026/04/19/5563187178137269265a-177659834-1234-8554-1776598445.jpg?w=180&h=108&q=100&dpr=2&fit=crop&s=yOeyBz6yGWIQj1XGIHQtqg",
+    "type": "Image",
+    "contexts": [
+      "source[srcset]"
+    ],
+    "notes": null
+  },
+  {
+    "url": "https://i1-vnexpress.vnecdn.net/2026/04/19/afp-aa-v1-highres-shiptrafficr-6243-1391-1776592604.jpg?w=180&h=108&q=100&dpr=2&fit=crop&s=2YMl-4cLMGFAME1KDOxz4g",
+    "type": "Image",
+    "contexts": [
+      "source[srcset]"
+    ],
+    "notes": null
+  },
+  {
+    "url": "https://i1-vnexpress.vnecdn.net/2026/04/17/afpk7zu-v1-highres-turkeygreec-5776-7724-1776414656.jpg?w=300&h=180&q=100&dpr=2&fit=crop&s=Gz7NGOzjD36J2o90PBvh7g",
+    "type": "Image",
+    "contexts": [
+      "source[srcset]"
+    ],
+    "notes": null
+  },
+  {
+    "url": "https://i1-vnexpress.vnecdn.net/2026/04/19/2024t000000z-mt1nurpho000kpvod-2029-5850-1776555565.jpg?w=300&h=180&q=100&dpr=2&fit=crop&s=8sEAcc8lwXEoViDQpCsdNQ",
+    "type": "Image",
+    "contexts": [
+      "source[srcset]"
+    ],
+    "notes": null
+  },
+  {
+    "url": "https://i1-vnexpress.vnecdn.net/2026/04/17/ap26106663188759-1776440988-6652-1776441203.jpg?w=300&h=180&q=100&dpr=2&fit=crop&s=ni48ppK5GKPxC-TB1B-WEA",
+    "type": "Image",
+    "contexts": [
+      "source[srcset]"
+    ],
+    "notes": null
+  },
+  {
+    "url": "https://i1-vnexpress.vnecdn.net/2026/04/19/afp-aa-v1-highres-shiptrafficr-6243-1391-1776592604.jpg?w=300&h=180&q=100&dpr=2&fit=crop&s=H9CG7EskTM2MEYNJI1ngNg",
+    "type": "Image",
+    "contexts": [
+      "source[srcset]"
+    ],
+    "notes": null
+  },
+  {
+    "url": "https://i1-vnexpress.vnecdn.net/2026/04/18/irgc-hormuz-jpeg-1776511765-7198-1776511774.jpg?w=300&h=180&q=100&dpr=2&fit=crop&s=mum5ZQxOZaqcPnWmTHOCkQ",
+    "type": "Image",
+    "contexts": [
+      "source[srcset]"
+    ],
+    "notes": null
+  },
+  {
+    "url": "https://i1-vnexpress.vnecdn.net/2026/04/20/Iran-1776642420-8819-1776642675.png?w=300&h=180&q=100&dpr=2&fit=crop&s=A33qN3hGoF2SWL1dx2rH8Q",
+    "type": "Image",
+    "contexts": [
+      "source[srcset]"
+    ],
+    "notes": null
+  },
+  {
+    "url": "https://i1-vnexpress.vnecdn.net/2026/04/20/5563187178137269268a-177662808-7737-2483-1776628225.jpg?w=300&h=180&q=100&dpr=2&fit=crop&s=zY0oM0Xw_BkllUwOxRTYsg",
+    "type": "Image",
+    "contexts": [
+      "source[srcset]"
+    ],
+    "notes": null
+  },
+  {
+    "url": "https://i1-vnexpress.vnecdn.net/2026/04/18/afp-v3-highres-speakermikejohn-7622-9224-1776491122.jpg?w=300&h=180&q=100&dpr=2&fit=crop&s=BPdEs5BJulT64Hn-Omg0Tg",
+    "type": "Image",
+    "contexts": [
+      "source[srcset]"
+    ],
+    "notes": null
+  },
+  {
+    "url": "https://i1-vnexpress.vnecdn.net/2026/04/19/image-1776574689-3954-1776575114.jpg?w=300&h=180&q=100&dpr=2&fit=crop&s=jdasIlEBMBi4HaZ33j8GrA",
+    "type": "Image",
+    "contexts": [
+      "source[srcset]"
+    ],
+    "notes": null
+  },
+  {
+    "url": "https://i1-vnexpress.vnecdn.net/2026/04/19/5563187178137269267a-177660826-1141-1169-1776608499.jpg?w=300&h=180&q=100&dpr=2&fit=crop&s=ifUjgvVJ9Gc71Z0BINlgyg",
+    "type": "Image",
+    "contexts": [
+      "source[srcset]"
+    ],
+    "notes": null
+  },
+  {
+    "url": "https://i1-vnexpress.vnecdn.net/2026/04/19/5563187178137269266a-177660225-8341-7867-1776602530.jpg?w=300&h=180&q=100&dpr=2&fit=crop&s=HNZyvrPqcdr_-v_47-XoBA",
+    "type": "Image",
+    "contexts": [
+      "source[srcset]"
+    ],
+    "notes": null
+  },
+  {
+    "url": "https://i1-vnexpress.vnecdn.net/2026/04/19/5563187178137269265a-177659834-1234-8554-1776598445.jpg?w=300&h=180&q=100&dpr=2&fit=crop&s=aqYg-wGT63rxaC1eFXidTg",
+    "type": "Image",
+    "contexts": [
+      "source[srcset]"
+    ],
+    "notes": null
+  },
+  {
+    "url": "https://s1.vnecdn.net/vnexpress/restruct/i/v9805/logos/72x72.png",
+    "type": "Icon",
+    "contexts": [
+      "link[rel=\"apple-touch-icon-precomposed\"]"
+    ],
+    "notes": null
+  },
+  {
+    "url": "https://s1.vnecdn.net/vnexpress/restruct/i/v9805/logos/114x114.png",
+    "type": "Icon",
+    "contexts": [
+      "link[rel=\"apple-touch-icon-precomposed\"]"
+    ],
+    "notes": null
+  },
+  {
+    "url": "https://s1.vnecdn.net/vnexpress/restruct/i/v9805/logos/57x57.png",
+    "type": "Icon",
+    "contexts": [
+      "link[rel=\"apple-touch-icon-precomposed\"]",
+      "link[rel=\"nokia-touch-icon\"]"
+    ],
+    "notes": null
+  },
+  {
+    "url": "https://s.eclick.vn/delivery/dfp/dfpbrand.js",
+    "type": "Other",
+    "contexts": [
+      "link[rel=\"preload\"]"
+    ],
+    "notes": null
+  },
+  {
+    "url": "https://s.eclick.vn/delivery/dfp/prebid.js",
+    "type": "Other",
+    "contexts": [
+      "link[rel=\"preload\"]"
+    ],
+    "notes": null
+  },
+  {
+    "url": "https://s.eclick.vn/delivery/dfp/do_pc_vne_1003925_detail.js",
+    "type": "Other",
+    "contexts": [
+      "link[rel=\"preload\"]"
+    ],
+    "notes": null
+  },
+  {
+    "url": "https://s.eclick.vn/zone/1001002/do_pc_detail_1003925.js",
+    "type": "Other",
+    "contexts": [
+      "link[rel=\"preload\"]"
+    ],
+    "notes": null
+  },
+  {
+    "url": "https://s1.vnecdn.net/vnexpress/restruct/images/favicon.ico",
+    "type": "Icon",
+    "contexts": [
+      "link[rel=\"shortcut icon\"]"
+    ],
+    "notes": null
+  },
+  {
+    "url": "https://i2-vnexpress.vnecdn.net/2026/04/20/5563187178137269269a-177663324-2980-8133-1776633489.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=wM3272bn4-0fwp2QZsoHjg",
+    "type": "Image",
+    "contexts": [
+      "meta[og:image]",
+      "meta[twitter:image]"
+    ],
+    "notes": null
+  },
+  {
+    "url": "https://s1.vnecdn.net/vnexpress/restruct/c/v3890/v2_2019/images/graphics/icon-eclick.svg",
+    "type": "Background",
+    "contexts": [
+      "css url()"
+    ],
+    "notes": null
+  },
+  {
+    "url": "https://s1.vnecdn.net/vnexpress/restruct/c/v3890/v2_2019/images/graphics/logo_vlight.svg",
+    "type": "Background",
+    "contexts": [
+      "css url()"
+    ],
+    "notes": null
+  },
+  {
+    "url": "https://vnexpress.net/%23filter0_d_16_30",
+    "type": "Other",
+    "contexts": [
+      "css url()"
+    ],
+    "notes": null
+  },
+  {
+    "url": "https://vnexpress.net/%23filter0_d_16_47",
+    "type": "Other",
+    "contexts": [
+      "css url()"
+    ],
+    "notes": null
+  },
+  {
+    "url": "https://static.eclick.vn/delivery/css/images/graphics/icon-sa-16x16.svg",
+    "type": "Background",
+    "contexts": [
+      "css url()"
+    ],
+    "notes": null
+  },
+  {
+    "url": "https://static.eclick.vn/delivery/css/images/graphics/logo-sa-fpt-hover.svg",
+    "type": "Background",
+    "contexts": [
+      "css url()"
+    ],
+    "notes": null
+  },
+  {
+    "url": "https://static.eclick.vn/delivery/css/images/graphics/logo-sa-fpt.svg",
+    "type": "Background",
+    "contexts": [
+      "css url()"
+    ],
+    "notes": null
+  },
+  {
+    "url": "https://static.eclick.vn/html5/vs_001/lib/assets/advertising.svg",
+    "type": "Background",
+    "contexts": [
+      "css url()"
+    ],
+    "notes": null
+  }
+]

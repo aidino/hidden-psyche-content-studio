@@ -1,0 +1,447 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@700;900&display=swap');
+    
+    body, html {
+      margin: 0;
+      padding: 0;
+      background: #111111;
+      width: 100%;
+      height: 100%;
+      overflow: hidden;
+    }
+    
+    .scene-content {
+      width: 1080px;
+      height: 1920px;
+      position: relative;
+    }
+
+    .bg-layer {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 1080px;
+      height: 1920px;
+      object-fit: cover;
+      opacity: 0;
+      z-index: 0;
+    }
+
+
+    .caption-group {
+      font-family: 'Outfit', sans-serif;
+      font-weight: 900;
+      font-size: 110px;
+      color: #FFFFFF;
+      text-transform: uppercase;
+      line-height: 1.1;
+      text-shadow: 0 4px 20px rgba(0,0,0,0.8);
+      padding: 0 80px;
+      box-sizing: border-box;
+      z-index: 10;
+    }
+
+    .word {
+      margin: 0 10px;
+    }
+
+    .accent-loss {
+      color: #FF3366;
+    }
+
+    .accent-gain {
+      color: #00E5FF;
+    }
+  </style>
+</head>
+<body>
+  <!-- Root composition -->
+  <div data-composition-id="main" data-width="1080" data-height="1920" data-start="0" data-duration="27.26">
+    <div class="scene-content">
+      <img id="bg-1" class="bg-layer" src="bg-1.png">
+      <img id="bg-2" class="bg-layer" src="bg-2.png">
+      <img id="bg-3" class="bg-layer" src="bg-3.png">
+      <img id="bg-4" class="bg-layer" src="bg-4.png">
+    <div id="cg-0" class="caption-group" style="visibility: hidden; position: absolute; width: 100%; text-align: center; top: 50%; transform: translateY(-50%);">
+      <span id="cg-0-w-0" class="word " style="display: inline-block;">Why</span>
+      <span id="cg-0-w-1" class="word " style="display: inline-block;">does</span>
+      <span id="cg-0-w-2" class="word accent-loss" style="display: inline-block;">losing</span>
+    </div>
+    <div id="cg-1" class="caption-group" style="visibility: hidden; position: absolute; width: 100%; text-align: center; top: 50%; transform: translateY(-50%);">
+      <span id="cg-1-w-0" class="word " style="display: inline-block;">10</span>
+      <span id="cg-1-w-1" class="word " style="display: inline-block;">dollars</span>
+      <span id="cg-1-w-2" class="word " style="display: inline-block;">feel</span>
+    </div>
+    <div id="cg-2" class="caption-group" style="visibility: hidden; position: absolute; width: 100%; text-align: center; top: 50%; transform: translateY(-50%);">
+      <span id="cg-2-w-0" class="word " style="display: inline-block;">so</span>
+      <span id="cg-2-w-1" class="word " style="display: inline-block;">much</span>
+      <span id="cg-2-w-2" class="word accent-loss" style="display: inline-block;">worse</span>
+    </div>
+    <div id="cg-3" class="caption-group" style="visibility: hidden; position: absolute; width: 100%; text-align: center; top: 50%; transform: translateY(-50%);">
+      <span id="cg-3-w-0" class="word " style="display: inline-block;">than</span>
+      <span id="cg-3-w-1" class="word accent-gain" style="display: inline-block;">finding</span>
+      <span id="cg-3-w-2" class="word " style="display: inline-block;">10</span>
+    </div>
+    <div id="cg-4" class="caption-group" style="visibility: hidden; position: absolute; width: 100%; text-align: center; top: 50%; transform: translateY(-50%);">
+      <span id="cg-4-w-0" class="word " style="display: inline-block;">dollars?</span>
+      <span id="cg-4-w-1" class="word " style="display: inline-block;">That's</span>
+      <span id="cg-4-w-2" class="word " style="display: inline-block;">loss</span>
+    </div>
+    <div id="cg-5" class="caption-group" style="visibility: hidden; position: absolute; width: 100%; text-align: center; top: 50%; transform: translateY(-50%);">
+      <span id="cg-5-w-0" class="word " style="display: inline-block;">aversion.</span>
+      <span id="cg-5-w-1" class="word " style="display: inline-block;">Our</span>
+      <span id="cg-5-w-2" class="word " style="display: inline-block;">brains</span>
+    </div>
+    <div id="cg-6" class="caption-group" style="visibility: hidden; position: absolute; width: 100%; text-align: center; top: 50%; transform: translateY(-50%);">
+      <span id="cg-6-w-0" class="word " style="display: inline-block;">are</span>
+      <span id="cg-6-w-1" class="word " style="display: inline-block;">hardwired</span>
+      <span id="cg-6-w-2" class="word " style="display: inline-block;">to</span>
+    </div>
+    <div id="cg-7" class="caption-group" style="visibility: hidden; position: absolute; width: 100%; text-align: center; top: 50%; transform: translateY(-50%);">
+      <span id="cg-7-w-0" class="word " style="display: inline-block;">prioritize</span>
+      <span id="cg-7-w-1" class="word accent-loss" style="display: inline-block;">threats</span>
+      <span id="cg-7-w-2" class="word " style="display: inline-block;">over</span>
+    </div>
+    <div id="cg-8" class="caption-group" style="visibility: hidden; position: absolute; width: 100%; text-align: center; top: 50%; transform: translateY(-50%);">
+      <span id="cg-8-w-0" class="word accent-gain" style="display: inline-block;">rewardsa</span>
+      <span id="cg-8-w-1" class="word " style="display: inline-block;">survival</span>
+      <span id="cg-8-w-2" class="word " style="display: inline-block;">mechanism</span>
+    </div>
+    <div id="cg-9" class="caption-group" style="visibility: hidden; position: absolute; width: 100%; text-align: center; top: 50%; transform: translateY(-50%);">
+      <span id="cg-9-w-0" class="word " style="display: inline-block;">from</span>
+      <span id="cg-9-w-1" class="word " style="display: inline-block;">our</span>
+      <span id="cg-9-w-2" class="word " style="display: inline-block;">ancestors.</span>
+    </div>
+    <div id="cg-10" class="caption-group" style="visibility: hidden; position: absolute; width: 100%; text-align: center; top: 50%; transform: translateY(-50%);">
+      <span id="cg-10-w-0" class="word " style="display: inline-block;">This</span>
+      <span id="cg-10-w-1" class="word " style="display: inline-block;">invisible</span>
+      <span id="cg-10-w-2" class="word accent-loss" style="display: inline-block;">bias</span>
+    </div>
+    <div id="cg-11" class="caption-group" style="visibility: hidden; position: absolute; width: 100%; text-align: center; top: 50%; transform: translateY(-50%);">
+      <span id="cg-11-w-0" class="word " style="display: inline-block;">traps</span>
+      <span id="cg-11-w-1" class="word " style="display: inline-block;">us</span>
+      <span id="cg-11-w-2" class="word " style="display: inline-block;">in</span>
+    </div>
+    <div id="cg-12" class="caption-group" style="visibility: hidden; position: absolute; width: 100%; text-align: center; top: 50%; transform: translateY(-50%);">
+      <span id="cg-12-w-0" class="word accent-loss" style="display: inline-block;">failing</span>
+      <span id="cg-12-w-1" class="word " style="display: inline-block;">situations,</span>
+      <span id="cg-12-w-2" class="word " style="display: inline-block;">like</span>
+    </div>
+    <div id="cg-13" class="caption-group" style="visibility: hidden; position: absolute; width: 100%; text-align: center; top: 50%; transform: translateY(-50%);">
+      <span id="cg-13-w-0" class="word " style="display: inline-block;">the</span>
+      <span id="cg-13-w-1" class="word " style="display: inline-block;">sunk</span>
+      <span id="cg-13-w-2" class="word " style="display: inline-block;">cost</span>
+    </div>
+    <div id="cg-14" class="caption-group" style="visibility: hidden; position: absolute; width: 100%; text-align: center; top: 50%; transform: translateY(-50%);">
+      <span id="cg-14-w-0" class="word " style="display: inline-block;">fallacy,</span>
+      <span id="cg-14-w-1" class="word " style="display: inline-block;">just</span>
+      <span id="cg-14-w-2" class="word " style="display: inline-block;">to</span>
+    </div>
+    <div id="cg-15" class="caption-group" style="visibility: hidden; position: absolute; width: 100%; text-align: center; top: 50%; transform: translateY(-50%);">
+      <span id="cg-15-w-0" class="word " style="display: inline-block;">avoid</span>
+      <span id="cg-15-w-1" class="word " style="display: inline-block;">admitting</span>
+      <span id="cg-15-w-2" class="word accent-loss" style="display: inline-block;">defeat.</span>
+    </div>
+    <div id="cg-16" class="caption-group" style="visibility: hidden; position: absolute; width: 100%; text-align: center; top: 50%; transform: translateY(-50%);">
+      <span id="cg-16-w-0" class="word " style="display: inline-block;">It</span>
+      <span id="cg-16-w-1" class="word " style="display: inline-block;">even</span>
+      <span id="cg-16-w-2" class="word " style="display: inline-block;">makes</span>
+    </div>
+    <div id="cg-17" class="caption-group" style="visibility: hidden; position: absolute; width: 100%; text-align: center; top: 50%; transform: translateY(-50%);">
+      <span id="cg-17-w-0" class="word " style="display: inline-block;">us</span>
+      <span id="cg-17-w-1" class="word " style="display: inline-block;">overvalue</span>
+      <span id="cg-17-w-2" class="word " style="display: inline-block;">things</span>
+    </div>
+    <div id="cg-18" class="caption-group" style="visibility: hidden; position: absolute; width: 100%; text-align: center; top: 50%; transform: translateY(-50%);">
+      <span id="cg-18-w-0" class="word " style="display: inline-block;">simply</span>
+      <span id="cg-18-w-1" class="word " style="display: inline-block;">because</span>
+      <span id="cg-18-w-2" class="word " style="display: inline-block;">we</span>
+    </div>
+    <div id="cg-19" class="caption-group" style="visibility: hidden; position: absolute; width: 100%; text-align: center; top: 50%; transform: translateY(-50%);">
+      <span id="cg-19-w-0" class="word " style="display: inline-block;">own</span>
+      <span id="cg-19-w-1" class="word " style="display: inline-block;">them!</span>
+      <span id="cg-19-w-2" class="word " style="display: inline-block;">By</span>
+    </div>
+    <div id="cg-20" class="caption-group" style="visibility: hidden; position: absolute; width: 100%; text-align: center; top: 50%; transform: translateY(-50%);">
+      <span id="cg-20-w-0" class="word " style="display: inline-block;">understanding</span>
+      <span id="cg-20-w-1" class="word " style="display: inline-block;">these</span>
+      <span id="cg-20-w-2" class="word " style="display: inline-block;">emotional</span>
+    </div>
+    <div id="cg-21" class="caption-group" style="visibility: hidden; position: absolute; width: 100%; text-align: center; top: 50%; transform: translateY(-50%);">
+      <span id="cg-21-w-0" class="word " style="display: inline-block;">patterns,</span>
+      <span id="cg-21-w-1" class="word " style="display: inline-block;">you</span>
+      <span id="cg-21-w-2" class="word " style="display: inline-block;">can</span>
+    </div>
+    <div id="cg-22" class="caption-group" style="visibility: hidden; position: absolute; width: 100%; text-align: center; top: 50%; transform: translateY(-50%);">
+      <span id="cg-22-w-0" class="word " style="display: inline-block;">break</span>
+      <span id="cg-22-w-1" class="word accent-gain" style="display: inline-block;">free</span>
+      <span id="cg-22-w-2" class="word " style="display: inline-block;">and</span>
+    </div>
+    <div id="cg-23" class="caption-group" style="visibility: hidden; position: absolute; width: 100%; text-align: center; top: 50%; transform: translateY(-50%);">
+      <span id="cg-23-w-0" class="word " style="display: inline-block;">make</span>
+      <span id="cg-23-w-1" class="word accent-gain" style="display: inline-block;">smarter</span>
+      <span id="cg-23-w-2" class="word " style="display: inline-block;">life</span>
+    </div>
+    <div id="cg-24" class="caption-group" style="visibility: hidden; position: absolute; width: 100%; text-align: center; top: 50%; transform: translateY(-50%);">
+      <span id="cg-24-w-0" class="word " style="display: inline-block;">decisions.</span>
+    </div>
+
+    </div>
+    
+    <audio
+      id="narration"
+      data-start="0"
+      data-duration="27.26"
+      data-track-index="1"
+      src="narration.wav"
+      data-volume="1"
+    ></audio>
+
+    <script src="https://cdn.jsdelivr.net/npm/gsap@3.14.2/dist/gsap.min.js"></script>
+    <script>
+      window.__timelines = window.__timelines || {};
+      const tl = gsap.timeline({ paused: true });
+      
+      tl.to("#bg-1", { opacity: 0.4, duration: 1 }, 0.00);
+      tl.to("#bg-1", { opacity: 0, duration: 1 }, 4.40);
+      tl.to("#bg-2", { opacity: 0.4, duration: 1 }, 5.40);
+      tl.to("#bg-2", { opacity: 0, duration: 1 }, 10.87);
+      tl.to("#bg-3", { opacity: 0.4, duration: 1 }, 11.87);
+      tl.to("#bg-3", { opacity: 0, duration: 1 }, 20.58);
+      tl.to("#bg-4", { opacity: 0.4, duration: 1 }, 21.58);
+      tl.to("#bg-4", { opacity: 0, duration: 1 }, 26.26);
+
+    // Group 0
+    tl.set("#cg-0", { visibility: "visible" }, 0.00);
+    tl.from("#cg-0", { scale: 0.8, opacity: 0, duration: 0.2, ease: "back.out(1.5)" }, 0.00);
+    tl.to("#cg-0-w-0", { scale: 1.15, duration: 0.1, yoyo: true, repeat: 1 }, 0.00);
+    tl.to("#cg-0-w-1", { scale: 1.15, duration: 0.1, yoyo: true, repeat: 1 }, 0.36);
+    tl.to("#cg-0-w-2", { scale: 1.15, duration: 0.1, yoyo: true, repeat: 1 }, 0.72);
+    tl.to("#cg-0", { scale: 1.1, opacity: 0, duration: 0.15, ease: "power2.in" }, 0.93);
+    tl.set("#cg-0", { opacity: 0, visibility: "hidden" }, 1.08);
+
+    // Group 1
+    tl.set("#cg-1", { visibility: "visible" }, 1.08);
+    tl.from("#cg-1", { scale: 0.8, opacity: 0, duration: 0.2, ease: "back.out(1.5)" }, 1.08);
+    tl.to("#cg-1-w-0", { scale: 1.15, duration: 0.1, yoyo: true, repeat: 1 }, 1.08);
+    tl.to("#cg-1-w-1", { scale: 1.15, duration: 0.1, yoyo: true, repeat: 1 }, 1.44);
+    tl.to("#cg-1-w-2", { scale: 1.15, duration: 0.1, yoyo: true, repeat: 1 }, 1.80);
+    tl.to("#cg-1", { scale: 1.1, opacity: 0, duration: 0.15, ease: "power2.in" }, 2.01);
+    tl.set("#cg-1", { opacity: 0, visibility: "hidden" }, 2.16);
+
+    // Group 2
+    tl.set("#cg-2", { visibility: "visible" }, 2.16);
+    tl.from("#cg-2", { scale: 0.8, opacity: 0, duration: 0.2, ease: "back.out(1.5)" }, 2.16);
+    tl.to("#cg-2-w-0", { scale: 1.15, duration: 0.1, yoyo: true, repeat: 1 }, 2.16);
+    tl.to("#cg-2-w-1", { scale: 1.15, duration: 0.1, yoyo: true, repeat: 1 }, 2.52);
+    tl.to("#cg-2-w-2", { scale: 1.15, duration: 0.1, yoyo: true, repeat: 1 }, 2.88);
+    tl.to("#cg-2", { scale: 1.1, opacity: 0, duration: 0.15, ease: "power2.in" }, 3.09);
+    tl.set("#cg-2", { opacity: 0, visibility: "hidden" }, 3.24);
+
+    // Group 3
+    tl.set("#cg-3", { visibility: "visible" }, 3.24);
+    tl.from("#cg-3", { scale: 0.8, opacity: 0, duration: 0.2, ease: "back.out(1.5)" }, 3.24);
+    tl.to("#cg-3-w-0", { scale: 1.15, duration: 0.1, yoyo: true, repeat: 1 }, 3.24);
+    tl.to("#cg-3-w-1", { scale: 1.15, duration: 0.1, yoyo: true, repeat: 1 }, 3.60);
+    tl.to("#cg-3-w-2", { scale: 1.15, duration: 0.1, yoyo: true, repeat: 1 }, 3.96);
+    tl.to("#cg-3", { scale: 1.1, opacity: 0, duration: 0.15, ease: "power2.in" }, 4.17);
+    tl.set("#cg-3", { opacity: 0, visibility: "hidden" }, 4.32);
+
+    // Group 4
+    tl.set("#cg-4", { visibility: "visible" }, 4.32);
+    tl.from("#cg-4", { scale: 0.8, opacity: 0, duration: 0.2, ease: "back.out(1.5)" }, 4.32);
+    tl.to("#cg-4-w-0", { scale: 1.15, duration: 0.1, yoyo: true, repeat: 1 }, 4.32);
+    tl.to("#cg-4-w-1", { scale: 1.15, duration: 0.1, yoyo: true, repeat: 1 }, 4.68);
+    tl.to("#cg-4-w-2", { scale: 1.15, duration: 0.1, yoyo: true, repeat: 1 }, 5.04);
+    tl.to("#cg-4", { scale: 1.1, opacity: 0, duration: 0.15, ease: "power2.in" }, 5.25);
+    tl.set("#cg-4", { opacity: 0, visibility: "hidden" }, 5.40);
+
+    // Group 5
+    tl.set("#cg-5", { visibility: "visible" }, 5.40);
+    tl.from("#cg-5", { scale: 0.8, opacity: 0, duration: 0.2, ease: "back.out(1.5)" }, 5.40);
+    tl.to("#cg-5-w-0", { scale: 1.15, duration: 0.1, yoyo: true, repeat: 1 }, 5.40);
+    tl.to("#cg-5-w-1", { scale: 1.15, duration: 0.1, yoyo: true, repeat: 1 }, 5.76);
+    tl.to("#cg-5-w-2", { scale: 1.15, duration: 0.1, yoyo: true, repeat: 1 }, 6.12);
+    tl.to("#cg-5", { scale: 1.1, opacity: 0, duration: 0.15, ease: "power2.in" }, 6.33);
+    tl.set("#cg-5", { opacity: 0, visibility: "hidden" }, 6.48);
+
+    // Group 6
+    tl.set("#cg-6", { visibility: "visible" }, 6.48);
+    tl.from("#cg-6", { scale: 0.8, opacity: 0, duration: 0.2, ease: "back.out(1.5)" }, 6.48);
+    tl.to("#cg-6-w-0", { scale: 1.15, duration: 0.1, yoyo: true, repeat: 1 }, 6.48);
+    tl.to("#cg-6-w-1", { scale: 1.15, duration: 0.1, yoyo: true, repeat: 1 }, 6.84);
+    tl.to("#cg-6-w-2", { scale: 1.15, duration: 0.1, yoyo: true, repeat: 1 }, 7.19);
+    tl.to("#cg-6", { scale: 1.1, opacity: 0, duration: 0.15, ease: "power2.in" }, 7.40);
+    tl.set("#cg-6", { opacity: 0, visibility: "hidden" }, 7.55);
+
+    // Group 7
+    tl.set("#cg-7", { visibility: "visible" }, 7.55);
+    tl.from("#cg-7", { scale: 0.8, opacity: 0, duration: 0.2, ease: "back.out(1.5)" }, 7.55);
+    tl.to("#cg-7-w-0", { scale: 1.15, duration: 0.1, yoyo: true, repeat: 1 }, 7.55);
+    tl.to("#cg-7-w-1", { scale: 1.15, duration: 0.1, yoyo: true, repeat: 1 }, 7.91);
+    tl.to("#cg-7-w-2", { scale: 1.15, duration: 0.1, yoyo: true, repeat: 1 }, 8.27);
+    tl.to("#cg-7", { scale: 1.1, opacity: 0, duration: 0.15, ease: "power2.in" }, 8.48);
+    tl.set("#cg-7", { opacity: 0, visibility: "hidden" }, 8.63);
+
+    // Group 8
+    tl.set("#cg-8", { visibility: "visible" }, 8.63);
+    tl.from("#cg-8", { scale: 0.8, opacity: 0, duration: 0.2, ease: "back.out(1.5)" }, 8.63);
+    tl.to("#cg-8-w-0", { scale: 1.15, duration: 0.1, yoyo: true, repeat: 1 }, 8.63);
+    tl.to("#cg-8-w-1", { scale: 1.15, duration: 0.1, yoyo: true, repeat: 1 }, 8.99);
+    tl.to("#cg-8-w-2", { scale: 1.15, duration: 0.1, yoyo: true, repeat: 1 }, 9.35);
+    tl.to("#cg-8", { scale: 1.1, opacity: 0, duration: 0.15, ease: "power2.in" }, 9.56);
+    tl.set("#cg-8", { opacity: 0, visibility: "hidden" }, 9.71);
+
+    // Group 9
+    tl.set("#cg-9", { visibility: "visible" }, 9.71);
+    tl.from("#cg-9", { scale: 0.8, opacity: 0, duration: 0.2, ease: "back.out(1.5)" }, 9.71);
+    tl.to("#cg-9-w-0", { scale: 1.15, duration: 0.1, yoyo: true, repeat: 1 }, 9.71);
+    tl.to("#cg-9-w-1", { scale: 1.15, duration: 0.1, yoyo: true, repeat: 1 }, 10.07);
+    tl.to("#cg-9-w-2", { scale: 1.15, duration: 0.1, yoyo: true, repeat: 1 }, 10.43);
+    tl.to("#cg-9", { scale: 1.1, opacity: 0, duration: 0.15, ease: "power2.in" }, 10.64);
+    tl.set("#cg-9", { opacity: 0, visibility: "hidden" }, 10.79);
+
+    // Group 10
+    tl.set("#cg-10", { visibility: "visible" }, 10.79);
+    tl.from("#cg-10", { scale: 0.8, opacity: 0, duration: 0.2, ease: "back.out(1.5)" }, 10.79);
+    tl.to("#cg-10-w-0", { scale: 1.15, duration: 0.1, yoyo: true, repeat: 1 }, 10.79);
+    tl.to("#cg-10-w-1", { scale: 1.15, duration: 0.1, yoyo: true, repeat: 1 }, 11.15);
+    tl.to("#cg-10-w-2", { scale: 1.15, duration: 0.1, yoyo: true, repeat: 1 }, 11.51);
+    tl.to("#cg-10", { scale: 1.1, opacity: 0, duration: 0.15, ease: "power2.in" }, 11.72);
+    tl.set("#cg-10", { opacity: 0, visibility: "hidden" }, 11.87);
+
+    // Group 11
+    tl.set("#cg-11", { visibility: "visible" }, 11.87);
+    tl.from("#cg-11", { scale: 0.8, opacity: 0, duration: 0.2, ease: "back.out(1.5)" }, 11.87);
+    tl.to("#cg-11-w-0", { scale: 1.15, duration: 0.1, yoyo: true, repeat: 1 }, 11.87);
+    tl.to("#cg-11-w-1", { scale: 1.15, duration: 0.1, yoyo: true, repeat: 1 }, 12.23);
+    tl.to("#cg-11-w-2", { scale: 1.15, duration: 0.1, yoyo: true, repeat: 1 }, 12.59);
+    tl.to("#cg-11", { scale: 1.1, opacity: 0, duration: 0.15, ease: "power2.in" }, 12.80);
+    tl.set("#cg-11", { opacity: 0, visibility: "hidden" }, 12.95);
+
+    // Group 12
+    tl.set("#cg-12", { visibility: "visible" }, 12.95);
+    tl.from("#cg-12", { scale: 0.8, opacity: 0, duration: 0.2, ease: "back.out(1.5)" }, 12.95);
+    tl.to("#cg-12-w-0", { scale: 1.15, duration: 0.1, yoyo: true, repeat: 1 }, 12.95);
+    tl.to("#cg-12-w-1", { scale: 1.15, duration: 0.1, yoyo: true, repeat: 1 }, 13.31);
+    tl.to("#cg-12-w-2", { scale: 1.15, duration: 0.1, yoyo: true, repeat: 1 }, 13.67);
+    tl.to("#cg-12", { scale: 1.1, opacity: 0, duration: 0.15, ease: "power2.in" }, 13.88);
+    tl.set("#cg-12", { opacity: 0, visibility: "hidden" }, 14.03);
+
+    // Group 13
+    tl.set("#cg-13", { visibility: "visible" }, 14.03);
+    tl.from("#cg-13", { scale: 0.8, opacity: 0, duration: 0.2, ease: "back.out(1.5)" }, 14.03);
+    tl.to("#cg-13-w-0", { scale: 1.15, duration: 0.1, yoyo: true, repeat: 1 }, 14.03);
+    tl.to("#cg-13-w-1", { scale: 1.15, duration: 0.1, yoyo: true, repeat: 1 }, 14.39);
+    tl.to("#cg-13-w-2", { scale: 1.15, duration: 0.1, yoyo: true, repeat: 1 }, 14.75);
+    tl.to("#cg-13", { scale: 1.1, opacity: 0, duration: 0.15, ease: "power2.in" }, 14.96);
+    tl.set("#cg-13", { opacity: 0, visibility: "hidden" }, 15.11);
+
+    // Group 14
+    tl.set("#cg-14", { visibility: "visible" }, 15.11);
+    tl.from("#cg-14", { scale: 0.8, opacity: 0, duration: 0.2, ease: "back.out(1.5)" }, 15.11);
+    tl.to("#cg-14-w-0", { scale: 1.15, duration: 0.1, yoyo: true, repeat: 1 }, 15.11);
+    tl.to("#cg-14-w-1", { scale: 1.15, duration: 0.1, yoyo: true, repeat: 1 }, 15.47);
+    tl.to("#cg-14-w-2", { scale: 1.15, duration: 0.1, yoyo: true, repeat: 1 }, 15.83);
+    tl.to("#cg-14", { scale: 1.1, opacity: 0, duration: 0.15, ease: "power2.in" }, 16.04);
+    tl.set("#cg-14", { opacity: 0, visibility: "hidden" }, 16.19);
+
+    // Group 15
+    tl.set("#cg-15", { visibility: "visible" }, 16.19);
+    tl.from("#cg-15", { scale: 0.8, opacity: 0, duration: 0.2, ease: "back.out(1.5)" }, 16.19);
+    tl.to("#cg-15-w-0", { scale: 1.15, duration: 0.1, yoyo: true, repeat: 1 }, 16.19);
+    tl.to("#cg-15-w-1", { scale: 1.15, duration: 0.1, yoyo: true, repeat: 1 }, 16.55);
+    tl.to("#cg-15-w-2", { scale: 1.15, duration: 0.1, yoyo: true, repeat: 1 }, 16.91);
+    tl.to("#cg-15", { scale: 1.1, opacity: 0, duration: 0.15, ease: "power2.in" }, 17.12);
+    tl.set("#cg-15", { opacity: 0, visibility: "hidden" }, 17.27);
+
+    // Group 16
+    tl.set("#cg-16", { visibility: "visible" }, 17.27);
+    tl.from("#cg-16", { scale: 0.8, opacity: 0, duration: 0.2, ease: "back.out(1.5)" }, 17.27);
+    tl.to("#cg-16-w-0", { scale: 1.15, duration: 0.1, yoyo: true, repeat: 1 }, 17.27);
+    tl.to("#cg-16-w-1", { scale: 1.15, duration: 0.1, yoyo: true, repeat: 1 }, 17.63);
+    tl.to("#cg-16-w-2", { scale: 1.15, duration: 0.1, yoyo: true, repeat: 1 }, 17.99);
+    tl.to("#cg-16", { scale: 1.1, opacity: 0, duration: 0.15, ease: "power2.in" }, 18.20);
+    tl.set("#cg-16", { opacity: 0, visibility: "hidden" }, 18.35);
+
+    // Group 17
+    tl.set("#cg-17", { visibility: "visible" }, 18.35);
+    tl.from("#cg-17", { scale: 0.8, opacity: 0, duration: 0.2, ease: "back.out(1.5)" }, 18.35);
+    tl.to("#cg-17-w-0", { scale: 1.15, duration: 0.1, yoyo: true, repeat: 1 }, 18.35);
+    tl.to("#cg-17-w-1", { scale: 1.15, duration: 0.1, yoyo: true, repeat: 1 }, 18.71);
+    tl.to("#cg-17-w-2", { scale: 1.15, duration: 0.1, yoyo: true, repeat: 1 }, 19.07);
+    tl.to("#cg-17", { scale: 1.1, opacity: 0, duration: 0.15, ease: "power2.in" }, 19.28);
+    tl.set("#cg-17", { opacity: 0, visibility: "hidden" }, 19.43);
+
+    // Group 18
+    tl.set("#cg-18", { visibility: "visible" }, 19.43);
+    tl.from("#cg-18", { scale: 0.8, opacity: 0, duration: 0.2, ease: "back.out(1.5)" }, 19.43);
+    tl.to("#cg-18-w-0", { scale: 1.15, duration: 0.1, yoyo: true, repeat: 1 }, 19.43);
+    tl.to("#cg-18-w-1", { scale: 1.15, duration: 0.1, yoyo: true, repeat: 1 }, 19.79);
+    tl.to("#cg-18-w-2", { scale: 1.15, duration: 0.1, yoyo: true, repeat: 1 }, 20.15);
+    tl.to("#cg-18", { scale: 1.1, opacity: 0, duration: 0.15, ease: "power2.in" }, 20.36);
+    tl.set("#cg-18", { opacity: 0, visibility: "hidden" }, 20.51);
+
+    // Group 19
+    tl.set("#cg-19", { visibility: "visible" }, 20.51);
+    tl.from("#cg-19", { scale: 0.8, opacity: 0, duration: 0.2, ease: "back.out(1.5)" }, 20.51);
+    tl.to("#cg-19-w-0", { scale: 1.15, duration: 0.1, yoyo: true, repeat: 1 }, 20.51);
+    tl.to("#cg-19-w-1", { scale: 1.15, duration: 0.1, yoyo: true, repeat: 1 }, 20.87);
+    tl.to("#cg-19-w-2", { scale: 1.15, duration: 0.1, yoyo: true, repeat: 1 }, 21.22);
+    tl.to("#cg-19", { scale: 1.1, opacity: 0, duration: 0.15, ease: "power2.in" }, 21.43);
+    tl.set("#cg-19", { opacity: 0, visibility: "hidden" }, 21.58);
+
+    // Group 20
+    tl.set("#cg-20", { visibility: "visible" }, 21.58);
+    tl.from("#cg-20", { scale: 0.8, opacity: 0, duration: 0.2, ease: "back.out(1.5)" }, 21.58);
+    tl.to("#cg-20-w-0", { scale: 1.15, duration: 0.1, yoyo: true, repeat: 1 }, 21.58);
+    tl.to("#cg-20-w-1", { scale: 1.15, duration: 0.1, yoyo: true, repeat: 1 }, 21.94);
+    tl.to("#cg-20-w-2", { scale: 1.15, duration: 0.1, yoyo: true, repeat: 1 }, 22.30);
+    tl.to("#cg-20", { scale: 1.1, opacity: 0, duration: 0.15, ease: "power2.in" }, 22.51);
+    tl.set("#cg-20", { opacity: 0, visibility: "hidden" }, 22.66);
+
+    // Group 21
+    tl.set("#cg-21", { visibility: "visible" }, 22.66);
+    tl.from("#cg-21", { scale: 0.8, opacity: 0, duration: 0.2, ease: "back.out(1.5)" }, 22.66);
+    tl.to("#cg-21-w-0", { scale: 1.15, duration: 0.1, yoyo: true, repeat: 1 }, 22.66);
+    tl.to("#cg-21-w-1", { scale: 1.15, duration: 0.1, yoyo: true, repeat: 1 }, 23.02);
+    tl.to("#cg-21-w-2", { scale: 1.15, duration: 0.1, yoyo: true, repeat: 1 }, 23.38);
+    tl.to("#cg-21", { scale: 1.1, opacity: 0, duration: 0.15, ease: "power2.in" }, 23.59);
+    tl.set("#cg-21", { opacity: 0, visibility: "hidden" }, 23.74);
+
+    // Group 22
+    tl.set("#cg-22", { visibility: "visible" }, 23.74);
+    tl.from("#cg-22", { scale: 0.8, opacity: 0, duration: 0.2, ease: "back.out(1.5)" }, 23.74);
+    tl.to("#cg-22-w-0", { scale: 1.15, duration: 0.1, yoyo: true, repeat: 1 }, 23.74);
+    tl.to("#cg-22-w-1", { scale: 1.15, duration: 0.1, yoyo: true, repeat: 1 }, 24.10);
+    tl.to("#cg-22-w-2", { scale: 1.15, duration: 0.1, yoyo: true, repeat: 1 }, 24.46);
+    tl.to("#cg-22", { scale: 1.1, opacity: 0, duration: 0.15, ease: "power2.in" }, 24.67);
+    tl.set("#cg-22", { opacity: 0, visibility: "hidden" }, 24.82);
+
+    // Group 23
+    tl.set("#cg-23", { visibility: "visible" }, 24.82);
+    tl.from("#cg-23", { scale: 0.8, opacity: 0, duration: 0.2, ease: "back.out(1.5)" }, 24.82);
+    tl.to("#cg-23-w-0", { scale: 1.15, duration: 0.1, yoyo: true, repeat: 1 }, 24.82);
+    tl.to("#cg-23-w-1", { scale: 1.15, duration: 0.1, yoyo: true, repeat: 1 }, 25.18);
+    tl.to("#cg-23-w-2", { scale: 1.15, duration: 0.1, yoyo: true, repeat: 1 }, 25.54);
+    tl.to("#cg-23", { scale: 1.1, opacity: 0, duration: 0.15, ease: "power2.in" }, 25.75);
+    tl.set("#cg-23", { opacity: 0, visibility: "hidden" }, 25.90);
+
+    // Group 24
+    tl.set("#cg-24", { visibility: "visible" }, 25.90);
+    tl.from("#cg-24", { scale: 0.8, opacity: 0, duration: 0.2, ease: "back.out(1.5)" }, 25.90);
+    tl.to("#cg-24-w-0", { scale: 1.15, duration: 0.1, yoyo: true, repeat: 1 }, 25.90);
+    tl.to("#cg-24", { scale: 1.1, opacity: 0, duration: 0.15, ease: "power2.in" }, 26.11);
+    tl.set("#cg-24", { opacity: 0, visibility: "hidden" }, 26.26);
+
+
+      
+      window.__timelines["main"] = tl;
+    </script>
+  </div>
+</body>
+</html>

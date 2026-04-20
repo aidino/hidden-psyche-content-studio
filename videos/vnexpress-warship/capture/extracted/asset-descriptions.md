@@ -1,0 +1,76 @@
+# Asset Descriptions
+
+One line per file. Read this instead of opening every image individually.
+
+- advertising.svg — 2KB, advertising
+- ap26106663188759-1776440988-6652-1776441.jpg — 194KB, "Ông Trump\: Mỹ cấm Israel ném bom Lebanon", in: item-news small-thumb
+- favicon.png — 1KB, favicon
+- hormuz-1776633369-2901-1776633489.jpg — 222KB, "Eo biển Hormuz và vùng Vịnh. Đồ họa: Guardian", section: "Ông Trump tiếp tục dọa 'phá hủy mọi cây cầu, nhà máy điện' ở"
+- icon-eclick.svg — 2KB, icon eclick
+- icon-sa-16x16.svg — 1KB, icon sa 16x16
+- image-1.jpg — 58KB, image 1
+- image-11.jpg — 47KB, image 11
+- image-16.jpg — 83KB, image 16
+- image-17.jpg — 69KB, image 17
+- image-1776574689-3954-1776575114.jpg — 155KB, "Nạn đục trộm bình xăng ở Mỹ khi giá nhiên liệu tăng", section: "Nạn đục trộm bình xăng ở Mỹ khi giá nhiên liệu tăng"
+- image-19.jpeg — 90KB, image 19
+- image-20.jpg — 79KB, image 20
+- image-21.jpg — 54KB, image 21
+- image-22.jpg — 64KB, image 22
+- image-23.jpeg — 34KB, image 23
+- image-24.jpeg — 50KB, image 24
+- image-25.jpeg — 32KB, image 25
+- image-26.webp — 101KB, image 26
+- image-27.webp — 105KB, image 27
+- image-28.webp — 43KB, image 28
+- image-29.webp — 88KB, image 29
+- image-3.jpg — 42KB, image 3
+- image-30.webp — 95KB, image 30
+- image-31.webp — 107KB, image 31
+- image-32.webp — 115KB, image 32
+- image-33.webp — 130KB, image 33
+- image-38.jpg — 102KB, image 38
+- image-39.jpg — 80KB, image 39
+- image-4.jpg — 34KB, image 4
+- image-40.jpg — 66KB, image 40
+- image-41.jpg — 191KB, image 41
+- image-42.jpg — 166KB, image 42
+- image-44.jpg — 211KB, image 44
+- image-47.jpg — 245KB, image 47
+- image-48.jpg — 235KB, image 48
+- image-5.jpg — 17KB, image 5
+- image-50.jpg — 271KB, image 50
+- image-51.jpg — 139KB, image 51
+- image-52.jpg — 180KB, image 52
+- image-6.jpeg — 28KB, image 6
+- image-7.jpeg — 48KB, image 7
+- image-8.jpg — 53KB, image 8
+- image-9.jpg — 48KB, image 9
+- iran-1776642420-8819-1776642675.png — 408KB, iran 1776642420 8819 1776642675
+- irgc-hormuz-jpeg-1776511765-7198-1776511.jpg — 131KB, "Xuồng Iran tấn công tàu dầu ở eo biển Hormuz", in: item-news small-thumb
+- like.svg — 4KB, "Thích", section: "Ý kiến"
+- loading1.gif — 21KB, "Đang tải dữ liệu", section: "Ý kiến", above fold
+- logo-sa-fpt-hover.svg — 10KB, logo sa fpt hover
+- logo-sa-fpt.svg — 10KB, logo sa fpt
+- logo-vlight.svg — 0KB, logo vlight
+- logo.svg — 5KB, "VnExpress - Bao tieng Viet nhieu nguoi xem nhat", in: section top-header sticky, above fold
+- og-image.jpg — 271KB, og image
+- qr-app-en.svg — 68KB, qr app en
+- qr-app.svg — 65KB, qr app
+- svgs/click-not-hide-notify.svg — icon: click-not-hide-notify
+- svgs/ic-ads.svg — icon: ic-ads
+- svgs/ic-ar.svg — icon: ic-ar
+- svgs/ic-back.svg — icon: ic-back
+- svgs/ic-comment.svg — icon: ic-comment
+- svgs/ic-evne.svg — icon: ic-evne
+- svgs/ic-facebook.svg — icon: ic-facebook
+- svgs/ic-hamger.svg — icon: ic-hamger
+- svgs/ic-linkedin.svg — icon: ic-linkedin
+- svgs/ic-mail.svg — icon: ic-mail
+- svgs/ic-save.svg — icon: ic-save
+- svgs/ic-search.svg — icon: ic-search
+- svgs/ic-share.svg — icon: ic-share
+- svgs/ic-twitter.svg — icon: ic-twitter
+- svgs/ic-vne.svg — icon: ic-vne
+- svgs/icon-2.svg — icon: icon 2
+- svgs/topbar-sticky.svg — icon: topbar-sticky
